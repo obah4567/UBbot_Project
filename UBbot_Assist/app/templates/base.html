@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>{% block titre %} UBbot {% endblock %}</title>
+    <title>{% block titre %} UBbot_Assist {% endblock %}</title>
 
     <!-- Intégration de Bootstrap -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
@@ -18,34 +18,36 @@
 
 <body>
     <!--    Pour la barre de menu qui est commune à toutes les pages du site    -->
-    <nav role="navigation" class="navbar navbar-expand-md navbar-dark bg-info fixed-top">
-        <div class="col-sm-12">
+    <nav role="navigation" class="navbar navbar-expand-md navbar-dark fixed-top entete">
+        <div class="col-sm-2"></div>
+        <div class="col-sm-8">
             <div class="navbar-header col-sm-8">
-                <a class="navbar-brand contenuConv" href="{{ url_for('base') }}">Agent conversationnel de l'UB</a>
+                <a class="navbar-brand contenuConv couleur_texte" href="{{ url_for('base') }}">UBbot Assist</a>
             </div>
 
             <div id="navbar" class="collapse navbar-collapse col">
                 <ul class="nav navbar-nav">
-                    <li class="active"> <a href="{{ url_for('accueil') }}">Accueil</a> </li>
-                    <li> <a title="Quelques détails sur l'Identité Numérique" href="{{ url_for('apropos') }}">A propos</a> </li>
-                    <li> <a title="Université de Bordeaux" href="https://www.u-bordeaux.fr/" target="_blank">UB</a> </li>
-                    <li> <a title="Environnement Numérique de Travail" href="https://ent.u-bordeaux.fr" target="_blank">ENT</a> </li>
+                    <li class="active"> <a href="{{ url_for('accueil') }}" class="couleur_texte">ACCUEIL</a> </li>
+                    <li> <a title="Université de Bordeaux" href="https://www.u-bordeaux.fr/" class="couleur_texte" target="_blank">UB</a> </li>
+                    <li> <a title="Environnement Numérique de Travail" href="https://ent.u-bordeaux.fr" class="couleur_texte" target="_blank">ENT</a> </li>
+                    <li> <a title="Foire aux questions" href="{{ url_for('faq') }}" class="couleur_texte">FAQ</a> </li>
                 </ul>
             </div>
         </div>
+        <div class="col-sm-2"></div>
     </nav>
 
     {% block corps %} {% endblock %}
 
     <!--    Pour l'intégration du bot sur toutes les pages du site    -->
-    <script src=https://assistant-web.watsonplatform.net/loadWatsonAssistantChat.js> </script> 
+    <script src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js"></script>
     <script>
-        window.loadWatsonAssistantChat({
-            integrationID: "", // The ID of this integration.
-            region: "eu-gb" // The region your integration is hosted in.
-        }).then(function (instance) {
-            instance.render();
-        });
+    window.loadWatsonAssistantChat({
+        integrationID: "0c3c72b1-6dc9-497f-96d3-5042883c7da3", // The ID of this integration.
+        region: "eu-gb" // The region your integration is hosted in.
+    }).then(function(instance){
+        instance.render();
+    });
     </script>
 </body>
 

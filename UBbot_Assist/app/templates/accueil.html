@@ -3,14 +3,16 @@
 {% block titre %}Accueil{% endblock %}
 
 {% block corps %}
-<div class="container distance">
+<div class="col-sm-3"></div>
+<div class="container distance col-sm-6">
     <p><img src="{{ url_for('static', filename='images/UBbot.jpg') }}" style="width: 200px; height: 130px;"></p>
 
-    <p> <span class="contenu"> Bonjour, je suis <b>UBbot</b>.&nbsp; </span> </p>
+    <p> <span class="contenu"> Bonjour, je suis <b>UBbot_Assist</b>.&nbsp; </span> </p>
 
     <p>
-        <span class="contenu">Un <b>chatbot</b> conçu pour aider les étudiants et enseignants de l'université de bordeaux à résoudre
-            quelques problèmes techniques liés à l'<b>ENT</b>.
+        <span class="contenu">Un <b>chatbot</b> conçu pour et par des étudiants pour offrir plus (d’avantages) 
+            d’assistance virtuel au sein de l’<b>Université
+            de Bordeaux</b>.
         </span>
     </p>
 
@@ -25,4 +27,5 @@
         </span>
     </p>
 </div>
+<div class="col-sm-3"></div>
 {% endblock %}

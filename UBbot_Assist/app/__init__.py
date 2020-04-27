@@ -13,8 +13,8 @@ def create_app():
     def accueil():
         return render_template('accueil.html')
 
-    @app.route('/apropos/')
-    def apropos():
-        return render_template("apropos.html")
+    @app.route('/faq/')
+    def faq():
+        return render_template("faq.html")
 
     return app
