@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block titre %}Accueil{% endblock %}
+
+{% block corps %}
+<div class="container distance">
+    <p><img src="{{ url_for('static', filename='images/UBbot.jpg') }}" style="width: 200px; height: 130px;"></p>
+
+    <p> <span class="contenu"> Bonjour, je suis <b>UBbot</b>.&nbsp; </span> </p>
+
+    <p>
+        <span class="contenu">Un <b>chatbot</b> conçu pour aider les étudiants et enseignants de l'université de bordeaux à résoudre
+            quelques problèmes techniques liés à l'<b>ENT</b>.
+        </span>
+    </p>
+
+    <p>
+        <span class="contenu">
+            Pour démmarer il faut:
+            <ul class="contenu1">
+                <li>Cliquer sur le bouton qui est tout en bas à droite de la page;</li>
+                <li>Une boite de dialogue s'ouvre après le clique sur le bouton;</li>
+                <li>Et juste après, vous pouvez dialoguer avec le bot qui vous proposera des solutions selon votre demande.</li>
+            </ul>
+        </span>
+    </p>
+</div>
+{% endblock %}
