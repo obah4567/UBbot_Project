@@ -8,7 +8,7 @@ Configuration nécessaires pour lancer le serveur avec FLASK:
         python3 -m venv env
 
     Activer l'environnement avec:
-        source myvenv/bin/activate
+        source env/bin/activate
 
     Mettre à jour pip et installer les outils nécessaires(FLASK...):
         python -m pip install --upgrade pip
