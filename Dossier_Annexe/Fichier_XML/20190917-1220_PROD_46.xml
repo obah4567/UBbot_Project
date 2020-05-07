@@ -1,0 +1,2608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDM xmlns="http://cdm-fr.fr/2012/CDM" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:habilitation xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" Organization="123">
+<ns2:habiliId xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">MELP_46</ns2:habiliId>
+<ns2:legalRef xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:field fieldPurpose="Recherche et Professionnel" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:fieldName xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:free xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:text xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">LP_46</ns2:text>
+</ns2:free>
+</ns2:fieldName>
+<ns2:fieldTimingInfo xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:fieldInfo xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:field>
+<ns2:contexteEtEnjeux xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:contexteEtEnjeuxInfo xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:header xmlns:ns3="http://cdm-fr.fr/2012/CDM">Description générale du contexte</ns3:header>
+Champ de description générale du contexte niveau formation
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns2:contexteEtEnjeuxInfo>
+</ns2:contexteEtEnjeux>
+<ns2:cohabilitation xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:exists xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">false</ns2:exists>
+<ns2:listOfOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:habOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:refOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:domainName xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:openDomain xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:domainName>
+</ns2:habOrgUnit>
+</ns2:listOfOrgUnit>
+</ns2:cohabilitation>
+<ns2:habiliObject xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:refProgram xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:habiliObject><ns2:domainName xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:fixedDomain xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">Sciences, Technologies, Santé</ns2:fixedDomain>
+</ns2:domainName><ns2:partnership xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:partnerName xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:partnershipInfo xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" /><ns2:diploma xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:description xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:diploma>
+<ns2:students xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns2:students>
+<ns2:management xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:partnershipInfo>
+<ns2:refOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:country xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:countryName xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">Etranger</ns2:countryName>
+</ns2:country>
+</ns2:partnership>
+<ns2:i13nProg xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:i13ProgPartner xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:partnerName xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:partnershipInfo xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:diploma agreement="bidiplomation" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:description xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:text xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:description>
+</ns2:diploma>
+<ns2:students xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns2:students>
+<ns2:management xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:partnershipInfo>
+<ns2:refOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:country xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:countryName xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">ETRANGER SANS AUTRE INDICATION</ns2:countryName>
+</ns2:country>
+</ns2:i13ProgPartner>
+<ns2:i13ProgName xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:i13nProg><ns2:relatedPrograms xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:refOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:relationInfo userDefined="FRUAI0333298FPRMELP_46" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:relatedPrograms>
+<ns2:infoBlock xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:habilitation>
+<ns3:properties xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:datasource xmlns:ns3="http://cdm-fr.fr/2012/CDM">Accreditation v1.0</ns3:datasource>
+<ns3:target xmlns:ns3="http://cdm-fr.fr/2012/CDM">publication</ns3:target><ns3:datetime date="2019-09-17" time="12:13:43" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:properties>
+<ns3:orgUnit ident="0333298F" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:orgUnitID xmlns:ns3="http://cdm-fr.fr/2012/CDM">FRUAI0333298FOU0333298F</ns3:orgUnitID>
+<ns3:orgUnitCode codeSet="codeUAI" xmlns:ns3="http://cdm-fr.fr/2012/CDM">0333298F</ns3:orgUnitCode>
+<ns3:orgUnitName xmlns:ns3="http://cdm-fr.fr/2012/CDM">Université de Bordeaux</ns3:orgUnitName>
+
+<ns3:orgUnitAcronym xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:orgUnitDescription xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:orgUnitIntroduction xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:orgUnitKind orgTypeCode="université" responsibleBody="publicSuperieur" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:webLink xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:href xmlns:ns3="http://cdm-fr.fr/2012/CDM">http://www.u-bordeaux.fr</ns3:href>
+</ns3:webLink>
+<ns3:admissionInfo xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:admissionDescription xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:admissionDescription xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" equiv="VAP"/>
+<ns2:admissionDescription xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" equiv="VAE"/>
+<ns2:admissionDescription xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" equiv="VES"/>
+<ns2:ectsRequired xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns3:registrationDeadline xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:cancelDeadline xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:admissionInfo>
+<ns3:expenses xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:regulations xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:studentFacilities xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:universalAdjustment xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:contacts xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:contactData xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:contactName xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:text xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:contactName>
+<ns3:adr xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:pobox xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:extadr xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:street xmlns:ns3="http://cdm-fr.fr/2012/CDM">35 Place Pey-Berland</ns3:street>
+<ns3:locality xmlns:ns3="http://cdm-fr.fr/2012/CDM">BORDEAUX</ns3:locality>
+<ns3:pcode xmlns:ns3="http://cdm-fr.fr/2012/CDM">33000</ns3:pcode>
+<ns3:country xmlns:ns3="http://cdm-fr.fr/2012/CDM">FRANCE</ns3:country>
+</ns3:adr>
+<ns3:telephone xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:fax xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:email xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:contactData>
+<ns3:refPerson xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:contacts>
+</ns3:orgUnit>
+<ns3:orgUnit ident="NI_5" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:orgUnitID xmlns:ns3="http://cdm-fr.fr/2012/CDM">NI_5</ns3:orgUnitID>
+ <ns3:orgUnitCode codeSet="codeUAI" xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+ <ns3:orgUnitName xmlns:ns3="http://cdm-fr.fr/2012/CDM"></ns3:orgUnitName>
+<ns2:orgUnitSecondName xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:secondName xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+</ns2:orgUnitSecondName>
+<ns3:orgUnitKind xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:contacts xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:contactData xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:contactName xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:text xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:contactName>
+<ns3:adr xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:pobox xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:extadr xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:street xmlns:ns3="http://cdm-fr.fr/2012/CDM">351 cours de la Libération CS 10004</ns3:street>
+<ns3:locality xmlns:ns3="http://cdm-fr.fr/2012/CDM">Talence Cedex</ns3:locality>
+<ns3:pcode xmlns:ns3="http://cdm-fr.fr/2012/CDM">33405</ns3:pcode>
+<ns3:country xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:adr>
+<ns3:telephone xmlns:ns3="http://cdm-fr.fr/2012/CDM">+33 5 40 00 60 00</ns3:telephone>
+<ns3:fax xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><ns3:email xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:contactData>
+<ns3:refPerson xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:contacts>
+<ns3:webLink xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:href xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:webLink>
+</ns3:orgUnit>
+<ns3:orgUnit ident="COMP_15" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:orgUnitID xmlns:ns3="http://cdm-fr.fr/2012/CDM">COMP_15</ns3:orgUnitID>
+ <ns3:orgUnitCode codeSet="codeUAI" xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+ <ns3:orgUnitName xmlns:ns3="http://cdm-fr.fr/2012/CDM">UF Biologie</ns3:orgUnitName>
+<ns2:orgUnitSecondName xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:secondName xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+</ns2:orgUnitSecondName>
+<ns3:orgUnitKind xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:contacts xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:contactData xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:contactName xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:text xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:contactName>
+<ns3:adr xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:pobox xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:extadr xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:street xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:locality xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:pcode xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:country xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:adr>
+<ns3:telephone xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:fax xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><ns3:email xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:contactData>
+<ns3:refPerson xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:contacts>
+<ns3:webLink xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:href xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:webLink>
+</ns3:orgUnit>
+
+<ns3:person ident="maryguil" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:personID xmlns:ns3="http://cdm-fr.fr/2012/CDM">maryguil</ns3:personID>
+<ns3:name xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:given xmlns:ns3="http://cdm-fr.fr/2012/CDM">Maryline</ns3:given>
+<ns3:family xmlns:ns3="http://cdm-fr.fr/2012/CDM">Guillaumin</ns3:family>
+</ns3:name>
+<ns3:title xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:text xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:title>
+<ns3:role xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:affiliation xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:refOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:professField xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:sectCNU xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:sectionCNULibelValue xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">SANS DISCIPLINE</ns2:sectionCNULibelValue>
+</ns2:sectCNU>
+</ns2:affiliation>
+<ns2:activities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:teachingMajor xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:otherActivities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:subBlock userDefined="activiteProfessionnelle" xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns2:otherActivities>
+</ns2:activities>
+<ns3:contactData xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:adr xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:pobox xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:extadr xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:street xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:locality xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:pcode xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:country xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:adr>
+<ns3:visitHour xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:telephone teltype="office" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:fax xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:email xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:webLink xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:href xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:webLink>
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns3:contactData>
+</ns3:person>
+
+<ns3:program id="FRUAI0333298FPRCPPT_2539" ident="FRUAI0333298FPRCPPT_2539" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:programID xmlns:ns3="http://cdm-fr.fr/2012/CDM">FRUAI0333298FPRCPPT_2539</ns3:programID>
+<ns2:programCode xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" codeSet="userDefined"/>
+<ns2:programDescription xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" nature="année"/>
+<ns2:programName xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ordinaryName="true">
+<ns2:text xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">Mention industries agro-alimentaires:gestion, production et valorisation: Démarche qualité et maîtrise des risques en industries agro -alimentaires</ns2:text>
+</ns2:programName>
+<ns3:qualification xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ECTScredits="60">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:studyQualification xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:competenceDesc xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:competenceValidity limited="false" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:studyQualification>
+</ns3:qualification>
+<ns2:programStructure xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:refProgram ref="FRUAI0333298FPRCPSEM_2555" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:refProgram ref="FRUAI0333298FPRCPSEM_2556" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/></ns2:programStructure>
+</ns3:program>
+<ns3:program id="FRUAI0333298FPRCPSEM_2555" ident="FRUAI0333298FPRCPSEM_2555" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:programID xmlns:ns3="http://cdm-fr.fr/2012/CDM">FRUAI0333298FPRCPSEM_2555</ns3:programID>
+<ns2:programCode xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" codeSet="userDefined"/>
+<ns2:programDescription xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" nature="semestre"/>
+<ns2:programName xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ordinaryName="true">
+<ns2:text xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">Semestre 1</ns2:text>
+</ns2:programName>
+<ns3:qualification xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ECTScredits="30">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:studyQualification xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:competenceDesc xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:competenceValidity limited="false" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:studyQualification>
+</ns3:qualification>
+<ns2:programStructure xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:refProgram ref="FRUAI0333298FPRCPL_2567" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/></ns2:programStructure>
+</ns3:program>
+<ns3:program id="FRUAI0333298FPRCPL_2567" ident="FRUAI0333298FPRCPL_2567" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:programID xmlns:ns3="http://cdm-fr.fr/2012/CDM">FRUAI0333298FPRCPL_2567</ns3:programID>
+<ns2:programCode xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" codeSet="userDefined"/>
+<ns2:programDescription xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" nature="parcours"/>
+<ns2:programName xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ordinaryName="true">
+<ns2:text xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">Liste d'UEs obligatoires - ts sites de formation confondus</ns2:text>
+</ns2:programName>
+<ns3:qualification xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ECTScredits="">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:studyQualification xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:competenceDesc xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:competenceValidity limited="false" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:studyQualification>
+</ns3:qualification>
+<ns2:programStructure xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:refCourse ref="FRUAI0333298FCOEN_2568" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:refCourse ref="FRUAI0333298FCOEN_3990" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:refCourse ref="FRUAI0333298FCOEN_4631" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:refCourse ref="FRUAI0333298FCOEN_4640" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:refCourse ref="FRUAI0333298FCOEN_4946" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/></ns2:programStructure>
+</ns3:program>
+<ns3:course id="FRUAI0333298FCOEN_2568" ident="FRUAI0333298FCOEN_2568" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:courseID xmlns:ns3="http://cdm-fr.fr/2012/CDM">FRUAI0333298FCOEN_2568</ns3:courseID>
+<ns3:courseDescription xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:digitalUse xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:percentage xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns2:lcms xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns2:prodPeda xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+</ns2:digitalUse><ns2:infoBlock xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"><ul><li>Heures d'enseignement dispensées à l'étudiant : 60 heures</li>
+<li>Temps de travail personnel : 100 heures</li></ul>
+</ns2:infoBlock>
+<ns2:courseContentsEC xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" nature="Modules"/>
+</ns3:courseDescription>
+<ns3:courseName xmlns:ns3="http://cdm-fr.fr/2012/CDM">Filiéres industries agro alimentaires,  Gestion de production</ns3:courseName>
+<ns3:level xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="CM" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="TP" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="TD" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="homeWork" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="ProfessTraining" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="trainingWeeks" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="all" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ECTScredits="6.0">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:globalVolume xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns3:learningObjectives xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><b>Objectifs :</b><br /> Présenter les différentes filières agro-industrielles  ainsi que les divers procédés et  métiers au sein d'une entreprise . Initier les apprenants aux outils techniques de gestion, d'organisation de la production et de gestion de la traçabilité . 
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><b>Compétences :</b><br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Travailler en équipe dans différents contextes, y compris avec des personnes issues de disciplines différentes : s'intégrer, se positionner, collaborer, communiquer et rendre compte.
+
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Se situer dans un environnement hiérarchique et professionnel, identifier ses compétences
+et respecter les procédures, la législation et les normes et, entre autres, les normes de
+sécurité, analyser les besoins de l’équipe et des usagers (ou des clients).
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Situer son rôle et sa mission au sein d'une organisation pour s'adapter et prendre des initiatives
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaître le ou les champs professionnel(s) associé(s) à la discipline.
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Se situer dans les différentes perspectives d'insertion professionnelle relatives à son champ disciplinaire.
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaître les techniques de recherche d’emploi et préparer des entretiens professionnels (rédiger un curriculum vitae et une lettre de motivation, valoriser ses compétences).
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Travailler en équipe autant qu’en autonomie au service d’un projet : s’intégrer, se positionner, collaborer, communiquer et rendre compte
+</ns3:listItem>
+</ns3:list>
+<br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+S'organiser individuellement, gérer son temps et ses priorités
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Faire preuve de capacités de recherche d'informations, d'analyse et de synthèse.
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Rédiger des documents de travail ( rapports, notes de synthèse...) adaptés aux personnes  et situations rencontrées  et appropriés aux organisations et structures concernées 
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir créer une présentation numérisée en respectant les règles d'usage et en étant capable de la personnaliser
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir animer un groupe de travail ou de réflexion dans l'entreprise
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Avoir des connaissances scientifiques et techniques
+</ns3:listItem>
+</ns3:list>
+<br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaitre les principaux outils de traçabilité et savoir les utiliser
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaitre les spécificités techniques, qualitatives et sanitaires des produits et des ingrédients utilisés en IAA
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaitre les principales filières agroalimentaires et leurs spécificités
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Comprendre les problématiques de fabrication et de conservation des produits
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaitre les diverses techniques de conditionnement
+</ns3:listItem>
+</ns3:list>
+ </ns3:learningObjectives>
+<ns3:formOfTeaching xmlns:ns3="http://cdm-fr.fr/2012/CDM">le mode de fonctionnement de l'UE est présenté au début des enseignements</ns3:formOfTeaching>
+<ns3:admissionInfo xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:ectsRequired xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns3:studentPlaces xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:admissionInfo>
+<ns3:instructionLanguage teachingLang="fr" xmlns:ns3="http://cdm-fr.fr/2012/CDM">Français</ns3:instructionLanguage>
+<ns3:searchword xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:courseIntroduction xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:syllabus xmlns:ns3="http://cdm-fr.fr/2012/CDM">l'ensemble des références bibliographiques est communiqué au début des enseignements</ns3:syllabus>
+<ns3:recommendedPrerequisites xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:formalPrerequisites xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:formOfAssessment xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Contrôle continu : <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Nature de l'épreuve	/ Durée	 / Coefficient	/ Modalité d'évaluation	/ Programme ou discipline couverts<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Devoir surveillé terminal	 Coef. 0,47	<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Devoir surveillé terminal	Coef.  0,25	<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Compte rendu de TP et visite 	Coef.  0,28	<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Pas de session 2<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>                                </ns3:formOfAssessment>
+<ns3:contacts xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:refOrgResp xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns3:refPerson ref="mbaccaun" role="contact" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:refPerson ref="maryguil" role="contact" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:refPerson ref="defaultContact" role="enseignant" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:contacts>
+</ns3:course>
+<ns3:person ident="mbaccaun" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:personID xmlns:ns3="http://cdm-fr.fr/2012/CDM">mbaccaun</ns3:personID>
+<ns3:name xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:given xmlns:ns3="http://cdm-fr.fr/2012/CDM">1</ns3:given>
+<ns3:family xmlns:ns3="http://cdm-fr.fr/2012/CDM">1</ns3:family>
+</ns3:name>
+<ns3:title xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:text xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:title>
+<ns3:role xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:affiliation xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:refOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:professField xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:sectCNU xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:sectionCNULibelValue xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">SANS DISCIPLINE</ns2:sectionCNULibelValue>
+</ns2:sectCNU>
+</ns2:affiliation>
+<ns2:activities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:teachingMajor xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:otherActivities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:subBlock userDefined="activiteProfessionnelle" xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns2:otherActivities>
+</ns2:activities>
+<ns3:contactData xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:adr xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:pobox xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:extadr xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:street xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:locality xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:pcode xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:country xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:adr>
+<ns3:visitHour xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:telephone teltype="office" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:fax xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:email xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:webLink xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:href xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:webLink>
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns3:contactData>
+</ns3:person><ns3:person ident="defaultContact" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:personID xmlns:ns3="http://cdm-fr.fr/2012/CDM">defaultContact</ns3:personID>
+<ns3:name xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:given xmlns:ns3="http://cdm-fr.fr/2012/CDM">la composition de l'ensemble de l'équipe pédagogique</ns3:given>
+<ns3:family xmlns:ns3="http://cdm-fr.fr/2012/CDM">est communiquée au début des enseignements</ns3:family>
+</ns3:name>
+<ns3:title xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:text xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:title>
+<ns3:role xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:affiliation xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:refOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:professField xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:sectCNU xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:sectionCNULibelValue xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">SANS DISCIPLINE</ns2:sectionCNULibelValue>
+</ns2:sectCNU>
+</ns2:affiliation>
+<ns2:activities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:teachingMajor xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:otherActivities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:subBlock userDefined="activiteProfessionnelle" xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns2:otherActivities>
+</ns2:activities>
+<ns3:contactData xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:adr xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:pobox xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:extadr xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:street xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:locality xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:pcode xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:country xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:adr>
+<ns3:visitHour xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:telephone teltype="office" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:fax xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:email xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:webLink xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:href xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:webLink>
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns3:contactData>
+</ns3:person>
+<ns3:course id="FRUAI0333298FCOEN_3990" ident="FRUAI0333298FCOEN_3990" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:courseID xmlns:ns3="http://cdm-fr.fr/2012/CDM">FRUAI0333298FCOEN_3990</ns3:courseID>
+<ns3:courseDescription xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:digitalUse xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:percentage xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns2:lcms xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns2:prodPeda xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+</ns2:digitalUse><ns2:infoBlock xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"><ul><li>Heures d'enseignement dispensées à l'étudiant : 89 heures</li>
+<li>Temps de travail personnel : 150 heures</li></ul>
+</ns2:infoBlock>
+<ns2:courseContentsEC xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" nature="Modules"/>
+</ns3:courseDescription>
+<ns3:courseName xmlns:ns3="http://cdm-fr.fr/2012/CDM">Management de la qualité -Sécurité sanitaire en industries agro alimentaires-Réglementation</ns3:courseName>
+<ns3:level xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="CM" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="TP" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="TD" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="homeWork" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="ProfessTraining" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="trainingWeeks" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="all" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ECTScredits="9.0">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:globalVolume xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns3:learningObjectives xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><b>Objectifs :</b><br /> Acquérir les connaissances réglementaires  et les exigences en matière d’hygiène et de  maîtrise de la  sécurité sanitaire des denrées alimentaires (Paquet hygiène,plan de maîtrise sanitaire (bonnes pratiques d’hygiène, HACCP , traçabilité),<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Présenter les normes ISO (9001, 22000), FSSC 22000, et les référentiels  (IFS, BRC ) en lien direct avec le management de la sécurité des denrées alimentaires,<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Apprendre à déployer le système de gestion de la qualité, le suivre, l'analyser , en mesurer l'efficacité <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Appréhender la méthodologie de l'audit ,outil de management des risques , d'analyse et d'évaluation,et en faire un outil d'amélioration continue .
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><b>Compétences :</b><br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Se situer dans les différentes perspectives d'insertion professionnelle relatives à son champ disciplinaire.
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Travailler en réseau, utiliser les outils numériques de communication et de travail collaboratif.
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Travailler en équipe dans différents contextes, y compris avec des personnes issues de disciplines différentes : s'intégrer, se positionner, collaborer, communiquer et rendre compte.
+
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Etre capable de communiquer des résultats à l'écrit et à l'oral
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Respecter les principes d’éthique et de déontologie dans le cadre d’une pratique professionnelle ou d’une enquête
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Situer le fonctionnement d’une entreprise ou une organisation dans son contexte socio-économique, identiﬁer les personnes ressources et les diverses fonctions d’une organisation. 
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir participer à la formation des équipes et avoir des compétences d’animation
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Travailler en équipe autant qu’en autonomie au service d’un projet : s’intégrer, se positionner, collaborer, communiquer et rendre compte
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaître le ou les champs professionnel(s) associé(s) à la discipline.
+</ns3:listItem>
+</ns3:list>
+<br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Maîtriser l'expression écrite et orale de la langue française et ses techniques d'expression
+
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Faire preuve de capacités de recherche d'informations, d'analyse et de synthèse.
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Rédiger des documents de travail ( rapports, notes de synthèse...) adaptés aux personnes  et situations rencontrées  et appropriés aux organisations et structures concernées 
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir créer une présentation numérisée en respectant les règles d'usage et en étant capable de la personnaliser
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir faire une recherche bibliographique ; construire la bibliographie de son sujet et faire un compte-rendu de lecture
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir animer un groupe de travail ou de réflexion dans l'entreprise
+</ns3:listItem>
+</ns3:list>
+<br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Etre capable d'appréhender et mettre en œuvre le plan de maîtrise sanitaire, développer et savoir appliquer la méthode HACCP, formaliser les pré requis, les pré requis opérationnels et les points critiques . 
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaitre les normes ISO de management de la qualité (ISO 9001, ISO 22000, ..) et les référentiels d'audits privés (IFS , BRC, ..)  et être capable de déployer un système de management de la qualité et sécurité des denrées alimentaires . 
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Acquérir la méthodologie de l'audit interne et du management des risques dans l'entreprise
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaitre les principes de l'évaluation des risques sanitaires, environnementaux et professionnels-Repérer les dangers, identifier les risques (aspects réglementaires, organisationnels et pratiques)
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Définir et participer à la mise en place d'indicateurs et de procédures de suivi des aspects  sanitaires, sécuritaires et environnementaux des activités de la structure
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Etre capable de mettre en place un plan de nettoyage, de désinfection et de sanitation
+</ns3:listItem>
+</ns3:list>
+ </ns3:learningObjectives>
+<ns3:formOfTeaching xmlns:ns3="http://cdm-fr.fr/2012/CDM">le mode de fonctionnement de l'UE est présenté au début des enseignements</ns3:formOfTeaching>
+<ns3:admissionInfo xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:ectsRequired xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns3:studentPlaces xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:admissionInfo>
+<ns3:instructionLanguage teachingLang="fr" xmlns:ns3="http://cdm-fr.fr/2012/CDM">Français</ns3:instructionLanguage>
+<ns3:searchword xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:courseIntroduction xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:syllabus xmlns:ns3="http://cdm-fr.fr/2012/CDM">l'ensemble des références bibliographiques est communiqué au début des enseignements</ns3:syllabus>
+<ns3:recommendedPrerequisites xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:formalPrerequisites xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:formOfAssessment xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+ <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>session1<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>DST qualité IAA  Coef. 0,4	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Oral audit   Coef. 0,4	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Rapp Développement dur.   Coef. 0,2	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Pas de session2	 <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:formOfAssessment>
+<ns3:contacts xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:refOrgResp xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns3:refPerson ref="maryguil" role="contact" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:refPerson ref="defaultContact" role="enseignant" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:contacts>
+</ns3:course><ns3:person ident="defaultContact" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:personID xmlns:ns3="http://cdm-fr.fr/2012/CDM">defaultContact</ns3:personID>
+<ns3:name xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:given xmlns:ns3="http://cdm-fr.fr/2012/CDM">la composition de l'ensemble de l'équipe pédagogique</ns3:given>
+<ns3:family xmlns:ns3="http://cdm-fr.fr/2012/CDM">est communiquée au début des enseignements</ns3:family>
+</ns3:name>
+<ns3:title xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:text xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:title>
+<ns3:role xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:affiliation xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:refOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:professField xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:sectCNU xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:sectionCNULibelValue xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">SANS DISCIPLINE</ns2:sectionCNULibelValue>
+</ns2:sectCNU>
+</ns2:affiliation>
+<ns2:activities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:teachingMajor xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:otherActivities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:subBlock userDefined="activiteProfessionnelle" xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns2:otherActivities>
+</ns2:activities>
+<ns3:contactData xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:adr xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:pobox xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:extadr xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:street xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:locality xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:pcode xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:country xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:adr>
+<ns3:visitHour xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:telephone teltype="office" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:fax xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:email xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:webLink xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:href xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:webLink>
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns3:contactData>
+</ns3:person>
+<ns3:course id="FRUAI0333298FCOEN_4631" ident="FRUAI0333298FCOEN_4631" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:courseID xmlns:ns3="http://cdm-fr.fr/2012/CDM">FRUAI0333298FCOEN_4631</ns3:courseID>
+<ns3:courseDescription xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:digitalUse xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:percentage xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns2:lcms xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns2:prodPeda xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+</ns2:digitalUse><ns2:infoBlock xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"><ul><li>Heures d'enseignement dispensées à l'étudiant : 90 heures</li>
+<li>Temps de travail personnel : 145 heures</li></ul>
+</ns2:infoBlock>
+<ns2:courseContentsEC xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" nature="Modules"/>
+</ns3:courseDescription>
+<ns3:courseName xmlns:ns3="http://cdm-fr.fr/2012/CDM">Sécurité du travail- Maitrise des risques pour l'environnement-Maîtrise des intrants et sortants</ns3:courseName>
+<ns3:level xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="CM" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="TP" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="TD" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="homeWork" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="ProfessTraining" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="trainingWeeks" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="all" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ECTScredits="9.0">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:globalVolume xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns3:learningObjectives xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><b>Objectifs :</b><br /> Avoir connaissances des principes de sécurité et de maîtrise des divers dangers auxquels l'entreprise peut être exposée (physique:machine-environnement,chimique,incendie,gaz, électriques (mise en conformité des installations et des bâtiments), danger liés à l'utilisation du froid (fluides) et du chaud (stérilisation, conduite d'autoclave) . <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Acquérir les bases indispensables pour les prévenir et les maitriser .<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Connaitre les dangers  et analyser les risques sur l'environnement liés à une  activité professionnelle<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Connaitre la réglementation, les normes et les divers dossiers en relation direct  Norme ISO 14000, dossier ICPE, ....)   
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><b>Compétences :</b><br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Travailler en équipe dans différents contextes, y compris avec des personnes issues de disciplines différentes : s'intégrer, se positionner, collaborer, communiquer et rendre compte.
+
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Etre capable de communiquer des résultats à l'écrit et à l'oral
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Respecter les principes d’éthique et de déontologie dans le cadre d’une pratique professionnelle ou d’une enquête
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Construire son projet personnel et professionnel et valoriser ses compétences et ses expériences par écrit et oralement 
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir participer à la formation des équipes et avoir des compétences d’animation
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+S’organiser individuellement, gérer son temps et ses priorités, planifier ; s’autoévaluer
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Travailler en équipe autant qu’en autonomie au service d’un projet : s’intégrer, se positionner, collaborer, communiquer et rendre compte
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Collecter des informations (recherche bibliographique, veille technologique) sur un sujet nécessitant de confronter différentes sources d’information (web, ouvrages scientifiques, interview de spécialistes du secteur).
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Situer son rôle et sa mission au sein d'une organisation pour s'adapter et prendre des initiatives
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaître le ou les champs professionnel(s) associé(s) à la discipline.
+</ns3:listItem>
+</ns3:list>
+<br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+S'organiser individuellement, gérer son temps et ses priorités
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Maîtriser l'expression écrite et orale de la langue française et ses techniques d'expression
+
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Faire preuve de capacités de recherche d'informations, d'analyse et de synthèse.
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir créer une présentation numérisée en respectant les règles d'usage et en étant capable de la personnaliser
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Rédiger des documents de travail ( rapports, notes de synthèse...) adaptés aux personnes  et situations rencontrées  et appropriés aux organisations et structures concernées 
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir faire une recherche bibliographique ; construire la bibliographie de son sujet et faire un compte-rendu de lecture
+</ns3:listItem>
+</ns3:list>
+<br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaitre les principes de l'évaluation des risques sanitaires, environnementaux et professionnels-Repérer les dangers, identifier les risques (aspects réglementaires, organisationnels et pratiques)
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Etre capable de se positionner en tant qu'animateur prévention des risques professionnels
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Etre capable de mener un projet en prévention des risques professionnels répondant aux exigences d'une entreprise et être capable d'analyser de façon objective une situation de travail
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Etre capable d'agir sur les leviers socio économiques pour faire avancer la prévention
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaitre l'impact des divers polluants sur l'environnement
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Identifier les bio indicateurs et prévention des risques
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaitre les principales règles de tri, de traitement et d'élimination des déchets
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Etre capable de mettre en place un système de gestion des risques environnementaux
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir identifier les différents risques psychosociaux
+</ns3:listItem>
+</ns3:list>
+ </ns3:learningObjectives>
+<ns3:formOfTeaching xmlns:ns3="http://cdm-fr.fr/2012/CDM">le mode de fonctionnement de l'UE est présenté au début des enseignements</ns3:formOfTeaching>
+<ns3:admissionInfo xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:ectsRequired xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns3:studentPlaces xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:admissionInfo>
+<ns3:instructionLanguage teachingLang="fr" xmlns:ns3="http://cdm-fr.fr/2012/CDM">Français</ns3:instructionLanguage>
+<ns3:searchword xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:courseIntroduction xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:syllabus xmlns:ns3="http://cdm-fr.fr/2012/CDM">l'ensemble des références bibliographiques est communiqué au début des enseignements</ns3:syllabus>
+<ns3:recommendedPrerequisites xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:formalPrerequisites xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:formOfAssessment xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+ <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>session 1	<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>DST Ecologie   0,10	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Oral / Ecrit  environnement  0,4	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>DST sécurité travail    0,5	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>pas de session2	 <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:formOfAssessment>
+<ns3:contacts xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:refOrgResp xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns3:refPerson ref="pcavaill" role="contact" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:refPerson ref="cgotte" role="contact" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:refPerson ref="defaultContact" role="enseignant" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:contacts>
+</ns3:course>
+<ns3:person ident="pcavaill" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:personID xmlns:ns3="http://cdm-fr.fr/2012/CDM">pcavaill</ns3:personID>
+<ns3:name xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:given xmlns:ns3="http://cdm-fr.fr/2012/CDM">Patrice</ns3:given>
+<ns3:family xmlns:ns3="http://cdm-fr.fr/2012/CDM">Cavaille</ns3:family>
+</ns3:name>
+<ns3:title xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:text xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:title>
+<ns3:role xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:affiliation xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:refOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:professField xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:sectCNU xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:sectionCNULibelValue xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">SANS DISCIPLINE</ns2:sectionCNULibelValue>
+</ns2:sectCNU>
+</ns2:affiliation>
+<ns2:activities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:teachingMajor xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:otherActivities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:subBlock userDefined="activiteProfessionnelle" xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns2:otherActivities>
+</ns2:activities>
+<ns3:contactData xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:adr xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:pobox xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:extadr xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:street xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:locality xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:pcode xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:country xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:adr>
+<ns3:visitHour xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:telephone teltype="office" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:fax xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:email xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:webLink xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:href xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:webLink>
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns3:contactData>
+</ns3:person>
+<ns3:person ident="cgotte" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:personID xmlns:ns3="http://cdm-fr.fr/2012/CDM">cgotte</ns3:personID>
+<ns3:name xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:given xmlns:ns3="http://cdm-fr.fr/2012/CDM">Cyrille</ns3:given>
+<ns3:family xmlns:ns3="http://cdm-fr.fr/2012/CDM">Gotte</ns3:family>
+</ns3:name>
+<ns3:title xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:text xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:title>
+<ns3:role xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:affiliation xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:refOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:professField xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:sectCNU xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:sectionCNULibelValue xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">SANS DISCIPLINE</ns2:sectionCNULibelValue>
+</ns2:sectCNU>
+</ns2:affiliation>
+<ns2:activities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:teachingMajor xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:otherActivities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:subBlock userDefined="activiteProfessionnelle" xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns2:otherActivities>
+</ns2:activities>
+<ns3:contactData xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:adr xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:pobox xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:extadr xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:street xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:locality xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:pcode xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:country xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:adr>
+<ns3:visitHour xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:telephone teltype="office" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:fax xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:email xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:webLink xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:href xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:webLink>
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns3:contactData>
+</ns3:person><ns3:person ident="defaultContact" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:personID xmlns:ns3="http://cdm-fr.fr/2012/CDM">defaultContact</ns3:personID>
+<ns3:name xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:given xmlns:ns3="http://cdm-fr.fr/2012/CDM">la composition de l'ensemble de l'équipe pédagogique</ns3:given>
+<ns3:family xmlns:ns3="http://cdm-fr.fr/2012/CDM">est communiquée au début des enseignements</ns3:family>
+</ns3:name>
+<ns3:title xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:text xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:title>
+<ns3:role xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:affiliation xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:refOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:professField xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:sectCNU xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:sectionCNULibelValue xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">SANS DISCIPLINE</ns2:sectionCNULibelValue>
+</ns2:sectCNU>
+</ns2:affiliation>
+<ns2:activities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:teachingMajor xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:otherActivities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:subBlock userDefined="activiteProfessionnelle" xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns2:otherActivities>
+</ns2:activities>
+<ns3:contactData xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:adr xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:pobox xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:extadr xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:street xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:locality xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:pcode xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:country xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:adr>
+<ns3:visitHour xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:telephone teltype="office" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:fax xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:email xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:webLink xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:href xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:webLink>
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns3:contactData>
+</ns3:person>
+<ns3:course id="FRUAI0333298FCOEN_4640" ident="FRUAI0333298FCOEN_4640" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:courseID xmlns:ns3="http://cdm-fr.fr/2012/CDM">FRUAI0333298FCOEN_4640</ns3:courseID>
+<ns3:courseDescription xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:digitalUse xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:percentage xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns2:lcms xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns2:prodPeda xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+</ns2:digitalUse><ns2:infoBlock xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"><ul><li>Heures d'enseignement dispensées à l'étudiant : 30 heures</li>
+<li>Temps de travail personnel : 60 heures</li></ul>
+</ns2:infoBlock>
+<ns2:courseContentsEC xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" nature="Modules"/>
+</ns3:courseDescription>
+<ns3:courseName xmlns:ns3="http://cdm-fr.fr/2012/CDM">Techniques de communication et d'expression</ns3:courseName>
+<ns3:level xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="CM" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="TP" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="TD" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="homeWork" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="ProfessTraining" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="trainingWeeks" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="all" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ECTScredits="3.0">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:globalVolume xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns3:learningObjectives xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><b>Objectifs :</b><br /> Développer les capacités de l'étudiant à communiquer en contexte professionnel
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><b>Compétences :</b><br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Travailler en équipe dans différents contextes, y compris avec des personnes issues de disciplines différentes : s'intégrer, se positionner, collaborer, communiquer et rendre compte.
+
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Etre capable de communiquer des résultats à l'écrit et à l'oral
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaître les techniques de recherche d’emploi et préparer des entretiens professionnels (rédiger un curriculum vitae et une lettre de motivation, valoriser ses compétences).
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Construire son projet personnel et professionnel et valoriser ses compétences et ses expériences par écrit et oralement 
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Rédiger un curriculum vitae et une lettre de motivation pour appuyer une candidature donnée ; présenter son parcours, ses compétences et son projet lors d'un entretien professionnel
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Piloter et animer une équipe de travail , une equipe ou un groupe de projet -Gérer les conflits
+</ns3:listItem>
+</ns3:list>
+<br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Maîtriser l'expression écrite et orale de la langue française et ses techniques d'expression
+
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Faire preuve de capacités de recherche d'informations, d'analyse et de synthèse.
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Rédiger des documents de travail ( rapports, notes de synthèse...) adaptés aux personnes  et situations rencontrées  et appropriés aux organisations et structures concernées 
+</ns3:listItem>
+</ns3:list>
+ </ns3:learningObjectives>
+<ns3:formOfTeaching xmlns:ns3="http://cdm-fr.fr/2012/CDM">le mode de fonctionnement de l'UE est présenté au début des enseignements</ns3:formOfTeaching>
+<ns3:admissionInfo xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:ectsRequired xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns3:studentPlaces xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:admissionInfo>
+<ns3:instructionLanguage teachingLang="fr" xmlns:ns3="http://cdm-fr.fr/2012/CDM">Français</ns3:instructionLanguage>
+<ns3:searchword xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:courseIntroduction xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:syllabus xmlns:ns3="http://cdm-fr.fr/2012/CDM">l'ensemble des références bibliographiques est communiqué au début des enseignements</ns3:syllabus>
+<ns3:recommendedPrerequisites xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:formalPrerequisites xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:formOfAssessment xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+ <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>session1	<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>DST Analyse doc  0,3	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Oral Animation réunion   0,3	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>DST Statistique  0,25	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Synthèse bibliographique    0,15	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>pas de session2	 <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:formOfAssessment>
+<ns3:contacts xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:refOrgResp xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns3:refPerson ref="idordan" role="contact" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:refPerson ref="defaultContact" role="enseignant" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:contacts>
+</ns3:course>
+<ns3:person ident="idordan" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:personID xmlns:ns3="http://cdm-fr.fr/2012/CDM">idordan</ns3:personID>
+<ns3:name xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:given xmlns:ns3="http://cdm-fr.fr/2012/CDM">Isabelle</ns3:given>
+<ns3:family xmlns:ns3="http://cdm-fr.fr/2012/CDM">Dordan</ns3:family>
+</ns3:name>
+<ns3:title xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:text xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:title>
+<ns3:role xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:affiliation xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:refOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:professField xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:sectCNU xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:sectionCNULibelValue xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">SANS DISCIPLINE</ns2:sectionCNULibelValue>
+</ns2:sectCNU>
+</ns2:affiliation>
+<ns2:activities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:teachingMajor xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:otherActivities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:subBlock userDefined="activiteProfessionnelle" xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns2:otherActivities>
+</ns2:activities>
+<ns3:contactData xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:adr xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:pobox xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:extadr xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:street xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:locality xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:pcode xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:country xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:adr>
+<ns3:visitHour xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:telephone teltype="office" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:fax xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:email xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:webLink xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:href xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:webLink>
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns3:contactData>
+</ns3:person><ns3:person ident="defaultContact" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:personID xmlns:ns3="http://cdm-fr.fr/2012/CDM">defaultContact</ns3:personID>
+<ns3:name xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:given xmlns:ns3="http://cdm-fr.fr/2012/CDM">la composition de l'ensemble de l'équipe pédagogique</ns3:given>
+<ns3:family xmlns:ns3="http://cdm-fr.fr/2012/CDM">est communiquée au début des enseignements</ns3:family>
+</ns3:name>
+<ns3:title xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:text xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:title>
+<ns3:role xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:affiliation xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:refOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:professField xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:sectCNU xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:sectionCNULibelValue xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">SANS DISCIPLINE</ns2:sectionCNULibelValue>
+</ns2:sectCNU>
+</ns2:affiliation>
+<ns2:activities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:teachingMajor xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:otherActivities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:subBlock userDefined="activiteProfessionnelle" xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns2:otherActivities>
+</ns2:activities>
+<ns3:contactData xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:adr xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:pobox xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:extadr xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:street xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:locality xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:pcode xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:country xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:adr>
+<ns3:visitHour xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:telephone teltype="office" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:fax xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:email xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:webLink xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:href xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:webLink>
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns3:contactData>
+</ns3:person>
+<ns3:course id="FRUAI0333298FCOEN_4946" ident="FRUAI0333298FCOEN_4946" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:courseID xmlns:ns3="http://cdm-fr.fr/2012/CDM">FRUAI0333298FCOEN_4946</ns3:courseID>
+<ns3:courseDescription xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:digitalUse xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:percentage xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns2:lcms xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns2:prodPeda xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+</ns2:digitalUse><ns2:infoBlock xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"><ul><li>Heures d'enseignement dispensées à l'étudiant : 20 heures</li>
+<li>Temps de travail personnel : 60 heures</li></ul>
+</ns2:infoBlock>
+<ns2:courseContentsEC xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" nature="Modules"/>
+</ns3:courseDescription>
+<ns3:courseName xmlns:ns3="http://cdm-fr.fr/2012/CDM">Anglais</ns3:courseName>
+<ns3:level xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="CM" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="TP" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="TD" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="homeWork" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="ProfessTraining" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="trainingWeeks" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="all" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ECTScredits="3.0">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:globalVolume xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns3:learningObjectives xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><b>Objectifs :</b><br /> Apprentissage de la langue anglaise;<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Amener l'étudiant à comprendre et être en mesure de s'exprimer pour pouvoir échanger ,<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Amener l'étudiant à s'approprier un vocabulaire technique pour faciliter la compréhension d'écrits et de publication en Anglais
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><b>Compétences :</b><br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Se servir aisément de la compréhension de l’écrit et de l’oral en anglais
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Pouvoir lire, comprendre et utiliser une documentation technique en Francais et en Anglais
+</ns3:listItem>
+</ns3:list>
+ </ns3:learningObjectives>
+<ns3:formOfTeaching xmlns:ns3="http://cdm-fr.fr/2012/CDM">le mode de fonctionnement de l'UE est présenté au début des enseignements</ns3:formOfTeaching>
+<ns3:admissionInfo xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:ectsRequired xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns3:studentPlaces xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:admissionInfo>
+<ns3:instructionLanguage teachingLang="fr" xmlns:ns3="http://cdm-fr.fr/2012/CDM">Français</ns3:instructionLanguage>
+<ns3:searchword xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:courseIntroduction xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:syllabus xmlns:ns3="http://cdm-fr.fr/2012/CDM">l'ensemble des références bibliographiques est communiqué au début des enseignements</ns3:syllabus>
+<ns3:recommendedPrerequisites xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:formalPrerequisites xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:formOfAssessment xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+ <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>session1	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>DST   0,4	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Oral    0,6	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>pas de session2	 <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:formOfAssessment>
+<ns3:contacts xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:refOrgResp xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns3:refPerson ref="achilver" role="contact" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:refPerson ref="defaultContact" role="enseignant" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:contacts>
+</ns3:course>
+<ns3:person ident="achilver" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:personID xmlns:ns3="http://cdm-fr.fr/2012/CDM">achilver</ns3:personID>
+<ns3:name xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:given xmlns:ns3="http://cdm-fr.fr/2012/CDM">1</ns3:given>
+<ns3:family xmlns:ns3="http://cdm-fr.fr/2012/CDM">1</ns3:family>
+</ns3:name>
+<ns3:title xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:text xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:title>
+<ns3:role xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:affiliation xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:refOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:professField xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:sectCNU xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:sectionCNULibelValue xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">SANS DISCIPLINE</ns2:sectionCNULibelValue>
+</ns2:sectCNU>
+</ns2:affiliation>
+<ns2:activities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:teachingMajor xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:otherActivities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:subBlock userDefined="activiteProfessionnelle" xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns2:otherActivities>
+</ns2:activities>
+<ns3:contactData xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:adr xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:pobox xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:extadr xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:street xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:locality xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:pcode xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:country xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:adr>
+<ns3:visitHour xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:telephone teltype="office" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:fax xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:email xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:webLink xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:href xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:webLink>
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns3:contactData>
+</ns3:person><ns3:person ident="defaultContact" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:personID xmlns:ns3="http://cdm-fr.fr/2012/CDM">defaultContact</ns3:personID>
+<ns3:name xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:given xmlns:ns3="http://cdm-fr.fr/2012/CDM">la composition de l'ensemble de l'équipe pédagogique</ns3:given>
+<ns3:family xmlns:ns3="http://cdm-fr.fr/2012/CDM">est communiquée au début des enseignements</ns3:family>
+</ns3:name>
+<ns3:title xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:text xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:title>
+<ns3:role xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:affiliation xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:refOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:professField xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:sectCNU xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:sectionCNULibelValue xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">SANS DISCIPLINE</ns2:sectionCNULibelValue>
+</ns2:sectCNU>
+</ns2:affiliation>
+<ns2:activities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:teachingMajor xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:otherActivities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:subBlock userDefined="activiteProfessionnelle" xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns2:otherActivities>
+</ns2:activities>
+<ns3:contactData xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:adr xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:pobox xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:extadr xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:street xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:locality xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:pcode xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:country xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:adr>
+<ns3:visitHour xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:telephone teltype="office" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:fax xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:email xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:webLink xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:href xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:webLink>
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns3:contactData>
+</ns3:person>
+
+<ns3:program id="FRUAI0333298FPRCPSEM_2556" ident="FRUAI0333298FPRCPSEM_2556" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:programID xmlns:ns3="http://cdm-fr.fr/2012/CDM">FRUAI0333298FPRCPSEM_2556</ns3:programID>
+<ns2:programCode xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" codeSet="userDefined"/>
+<ns2:programDescription xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" nature="semestre"/>
+<ns2:programName xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ordinaryName="true">
+<ns2:text xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">Semestre 2</ns2:text>
+</ns2:programName>
+<ns3:qualification xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ECTScredits="30">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:studyQualification xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:competenceDesc xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:competenceValidity limited="false" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:studyQualification>
+</ns3:qualification>
+<ns2:programStructure xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:refProgram ref="FRUAI0333298FPRCPL_4641" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:refProgram ref="FRUAI0333298FPRCPL_4657" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/></ns2:programStructure>
+</ns3:program>
+<ns3:program id="FRUAI0333298FPRCPL_4641" ident="FRUAI0333298FPRCPL_4641" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:programID xmlns:ns3="http://cdm-fr.fr/2012/CDM">FRUAI0333298FPRCPL_4641</ns3:programID>
+<ns2:programCode xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" codeSet="userDefined"/>
+<ns2:programDescription xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" nature="parcours"/>
+<ns2:programName xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ordinaryName="true">
+<ns2:text xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">Liste d'UEs obligatoires - ts sites de formation confondus</ns2:text>
+</ns2:programName>
+<ns3:qualification xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ECTScredits="">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:studyQualification xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:competenceDesc xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:competenceValidity limited="false" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:studyQualification>
+</ns3:qualification>
+<ns2:programStructure xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:refCourse ref="FRUAI0333298FCOEN_4642" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:refCourse ref="FRUAI0333298FCOEN_4687" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:refCourse ref="FRUAI0333298FCOEN_4691" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/></ns2:programStructure>
+</ns3:program>
+<ns3:course id="FRUAI0333298FCOEN_4642" ident="FRUAI0333298FCOEN_4642" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:courseID xmlns:ns3="http://cdm-fr.fr/2012/CDM">FRUAI0333298FCOEN_4642</ns3:courseID>
+<ns3:courseDescription xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:digitalUse xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:percentage xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns2:lcms xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns2:prodPeda xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+</ns2:digitalUse><ns2:infoBlock xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"><b>Cet enseignement comporte un stage :</b> <ul><li>Type de stage : Stage de fin d'études</li><li>Nombre de semaines de stage : 16</li><li>Modalité de suivi du stage : <br />Pour les étudiants initiaux: Démarrage du stage en général mi avril .<br />
+Trouver l'entreprise d'accueil est sous la responsabilité de l'étudiant  avec un appui le cas échéant du bureau des stages ou du responsable de  la licence .Le stage doit être avalisé par le bureau des stages et l'étudiant doit avoir désigné son tuteur universitaire ..Lors des démarches de recherche de stage, l'étudiant   est si besoin accompagné  pour la partie rédactionnelle et entretien par l'enseignant de l'UE communication. <br />
+Avant le début du stage, l'étudiant doit faire le point avec son tuteur universitaire pour définir ensemble le théme bibliographique.Deux à trois semaines après son intégration dans l'entreprise, l'étudiant doit remettre un pré rapport au tuteur universitaire . Pré rapport noté .<br />
+Pendant le stage l'étudiant est tenu de tenir informé régulièrement son tuteur universitaire de son état d'avancement et  une rencontre sur site programmée pour que l'ensemble des parties se rencontre.<br />
+Le stage se conclut par une soutenance orale  , la mise à disposition d'un rapport écrit et de l'appréciation du maître de stage.<br />
+Pour les étudiants en alternance,diverses périodes sont dédiées et des  échanges d'information se réalisent par un fichier informatique qui renseigne sur l'évolution de l'étudiant dans l'entreprise .Qu'il s'agisse d'un étudiant initial ou un alternant, une visite est généralement effectuée en cours de stage par le tuteur universitaire .</li>
+</ul>
+<ul><li>Heures d'enseignement dispensées à l'étudiant : 0 heures</li>
+<li>Temps de travail personnel : 0 heures</li></ul>
+</ns2:infoBlock>
+<ns2:courseContentsEC xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" nature="Modules"/>
+</ns3:courseDescription>
+<ns3:courseName xmlns:ns3="http://cdm-fr.fr/2012/CDM">Stage en entreprise</ns3:courseName>
+<ns3:level xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="CM" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="TP" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="TD" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="homeWork" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="ProfessTraining" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="trainingWeeks" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="all" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ECTScredits="12.0">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:globalVolume xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns3:learningObjectives xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><b>Objectifs :</b><br /> Le stage  permet à l'étudiant une immersion en entreprise.<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Il permet de mettre l'étudiant en situation professionnelle.<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Ce stage lui permet de mettre en pratique les connaissances acquises au long de son cursus y compris les nouvelles connaissances acquises au cours de l'enseignement dispensé et le prépare à l'entrée dans la vie active .  
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><b>Compétences :</b><br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Travailler en réseau, utiliser les outils numériques de communication et de travail collaboratif.
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Travailler en équipe dans différents contextes, y compris avec des personnes issues de disciplines différentes : s'intégrer, se positionner, collaborer, communiquer et rendre compte.
+
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Etre capable de communiquer des résultats à l'écrit et à l'oral
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Respecter les principes d’éthique et de déontologie dans le cadre d’une pratique professionnelle ou d’une enquête
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Situer le fonctionnement d’une entreprise ou une organisation dans son contexte socio-économique, identiﬁer les personnes ressources et les diverses fonctions d’une organisation. 
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Construire son projet personnel et professionnel et valoriser ses compétences et ses expériences par écrit et oralement 
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir participer à la formation des équipes et avoir des compétences d’animation
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+S’organiser individuellement, gérer son temps et ses priorités, planifier ; s’autoévaluer
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Se situer dans un environnement hiérarchique et professionnel, identifier ses compétences
+et respecter les procédures, la législation et les normes et, entre autres, les normes de
+sécurité, analyser les besoins de l’équipe et des usagers (ou des clients).
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Collecter des informations (recherche bibliographique, veille technologique) sur un sujet nécessitant de confronter différentes sources d’information (web, ouvrages scientifiques, interview de spécialistes du secteur).
+</ns3:listItem>
+</ns3:list>
+<br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+S'organiser individuellement, gérer son temps et ses priorités
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Maitriser les méthodologies d'évaluation de ses actions
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Maîtriser l'expression écrite et orale de la langue française et ses techniques d'expression
+
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Faire preuve de capacités de recherche d'informations, d'analyse et de synthèse.
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Rédiger des documents de travail ( rapports, notes de synthèse...) adaptés aux personnes  et situations rencontrées  et appropriés aux organisations et structures concernées 
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir créer une présentation numérisée en respectant les règles d'usage et en étant capable de la personnaliser
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir faire une recherche bibliographique ; construire la bibliographie de son sujet et faire un compte-rendu de lecture
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Comprendre et utiliser une référence bibliographique 
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Avoir des connaissances scientifiques et techniques
+</ns3:listItem>
+</ns3:list>
+<br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Être en capacité de réinvestir les connaissances acquises dans un contexte professionnel
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+piloter et planifier un projet
+</ns3:listItem>
+</ns3:list>
+ </ns3:learningObjectives>
+<ns3:formOfTeaching xmlns:ns3="http://cdm-fr.fr/2012/CDM">le mode de fonctionnement de l'UE est présenté au début des enseignements</ns3:formOfTeaching>
+<ns3:admissionInfo xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:ectsRequired xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns3:studentPlaces xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:admissionInfo>
+<ns3:instructionLanguage teachingLang="fr" xmlns:ns3="http://cdm-fr.fr/2012/CDM">Français</ns3:instructionLanguage>
+<ns3:searchword xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:courseIntroduction xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:syllabus xmlns:ns3="http://cdm-fr.fr/2012/CDM">l'ensemble des références bibliographiques est communiqué au début des enseignements</ns3:syllabus>
+<ns3:recommendedPrerequisites xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:formalPrerequisites xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:formOfAssessment xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Session 1 :<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Pré rapport		Coef. 0,15<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Rapport		Coef. 0,3	<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Soutenance		Coef. 0,4<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Appréciation maître de stage  Coef. 0,15<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Pas de session 2</ns3:formOfAssessment>
+<ns3:contacts xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:refOrgResp xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns3:refPerson ref="maryguil" role="contact" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:refPerson ref="defaultContact" role="enseignant" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:contacts>
+</ns3:course><ns3:person ident="defaultContact" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:personID xmlns:ns3="http://cdm-fr.fr/2012/CDM">defaultContact</ns3:personID>
+<ns3:name xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:given xmlns:ns3="http://cdm-fr.fr/2012/CDM">la composition de l'ensemble de l'équipe pédagogique</ns3:given>
+<ns3:family xmlns:ns3="http://cdm-fr.fr/2012/CDM">est communiquée au début des enseignements</ns3:family>
+</ns3:name>
+<ns3:title xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:text xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:title>
+<ns3:role xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:affiliation xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:refOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:professField xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:sectCNU xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:sectionCNULibelValue xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">SANS DISCIPLINE</ns2:sectionCNULibelValue>
+</ns2:sectCNU>
+</ns2:affiliation>
+<ns2:activities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:teachingMajor xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:otherActivities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:subBlock userDefined="activiteProfessionnelle" xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns2:otherActivities>
+</ns2:activities>
+<ns3:contactData xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:adr xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:pobox xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:extadr xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:street xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:locality xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:pcode xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:country xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:adr>
+<ns3:visitHour xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:telephone teltype="office" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:fax xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:email xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:webLink xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:href xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:webLink>
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns3:contactData>
+</ns3:person>
+<ns3:course id="FRUAI0333298FCOEN_4687" ident="FRUAI0333298FCOEN_4687" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:courseID xmlns:ns3="http://cdm-fr.fr/2012/CDM">FRUAI0333298FCOEN_4687</ns3:courseID>
+<ns3:courseDescription xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:digitalUse xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:percentage xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns2:lcms xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns2:prodPeda xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+</ns2:digitalUse><ns2:infoBlock xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"><ul><li>Heures d'enseignement dispensées à l'étudiant : 60 heures</li>
+<li>Temps de travail personnel : 100 heures</li></ul>
+</ns2:infoBlock>
+<ns2:courseContentsEC xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" nature="Modules"/>
+</ns3:courseDescription>
+<ns3:courseName xmlns:ns3="http://cdm-fr.fr/2012/CDM">Microbiologie-Toxicologie</ns3:courseName>
+<ns3:level xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="CM" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="TP" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="TD" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="homeWork" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="ProfessTraining" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="trainingWeeks" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="all" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ECTScredits="6.0">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:globalVolume xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns3:learningObjectives xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><b>Objectifs :</b><br /> MICROBIOLOGIE:<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Connaitre les différents microorganismes, leur structure, leur croissance et le métabolisme.<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Connaitre la réglementation et les procédures générales d'analyses microbiologiques des produits alimentaires<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Connaitre les agents pathogènes (bactériens, viraux et parasitaires)  à l'origine des infections d'origine alimentaire: leur habitat ,le mode de contraction, le mode d'action de ces agents  et la prophylaxie . 										<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Connaitre les intoxications alimentaires  chimiques et  les intoxinations alimentaires bactériennes : Aliments en cause, manifestation, traitement et prévention 										<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Connaitre la conduite à tenir en cas d'intoxication alimentaire 									<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Savoir mettre en œuvre les moyens nécessaires  pour éviter le développement des divers agents pathogènes  ou la dégradation de produits à l'origine des intoxications alimentaires   										<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Savoir analyser les diverses données mises à disposition lors de l'investigation de l'épisode d'intoxication alimentaire .<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Connaitre les procédures générales d'analyses microbiologiques des produits alimentaires <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Mettre en oeuvre des outils de contrôle traditionnels ou rapides air, eau, surface , .... .<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>TOXICOLOGIE:<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Connaître les bases de la toxicologie alimentaire<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Savoir utiliser les connaissances acquises en toxicologie dans la prévention des intoxications et des allergies alimentaires<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/> 										<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>                                         
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><b>Compétences :</b><br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Travailler en équipe dans différents contextes, y compris avec des personnes issues de disciplines différentes : s'intégrer, se positionner, collaborer, communiquer et rendre compte.
+
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir participer à la formation des équipes et avoir des compétences d’animation
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Travailler en équipe autant qu’en autonomie au service d’un projet : s’intégrer, se positionner, collaborer, communiquer et rendre compte
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Se situer dans un environnement hiérarchique et professionnel, identifier ses compétences
+et respecter les procédures, la législation et les normes et, entre autres, les normes de
+sécurité, analyser les besoins de l’équipe et des usagers (ou des clients).
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Collecter des informations (recherche bibliographique, veille technologique) sur un sujet nécessitant de confronter différentes sources d’information (web, ouvrages scientifiques, interview de spécialistes du secteur).
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaître le ou les champs professionnel(s) associé(s) à la discipline.
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Etre capable de communiquer des résultats à l'écrit et à l'oral
+</ns3:listItem>
+</ns3:list>
+<br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+S'organiser individuellement, gérer son temps et ses priorités
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Maîtriser l'expression écrite et orale de la langue française et ses techniques d'expression
+
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Faire preuve de capacités de recherche d'informations, d'analyse et de synthèse.
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir créer une présentation numérisée en respectant les règles d'usage et en étant capable de la personnaliser
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir faire une recherche bibliographique ; construire la bibliographie de son sujet et faire un compte-rendu de lecture
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Comprendre et utiliser une référence bibliographique 
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir animer un groupe de travail ou de réflexion dans l'entreprise
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Avoir des connaissances scientifiques et techniques
+</ns3:listItem>
+</ns3:list>
+<br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaitre les principes de l'évaluation des risques sanitaires, environnementaux et professionnels-Repérer les dangers, identifier les risques (aspects réglementaires, organisationnels et pratiques)
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Définir et participer à la mise en place d'indicateurs et de procédures de suivi des aspects  sanitaires, sécuritaires et environnementaux des activités de la structure
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Animer une réunion professionnelle 
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Pouvoir lire, comprendre et utiliser une documentation technique en Francais et en Anglais
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Etre capable de développer et de mettre en place un plan de surveillance 
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Etre capable d'utiliser les méthodes traditionnelles et les techniques rapides d'analyses pour vérifier l'efficacité des traitements .
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaitre les principaux risques sanitaires en fonction de l'origine des matières premières et des traitements technologiques 
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaitre les différents microorganismes, leur structure , leur croissance et le métabolisme
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaitre les procédures générales d'analyses microbiologiques des produits alimentaires
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaître la classification des substances toxiques, les différents types de toxicologie : toxicologie chronique et aigue, doses toxiques
+
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaître les différents aspects de la toxicocinétique et de la toxicodynamique
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir analyser les tests de dépistage des effets toxiques et savoir utiliser les bio-indicateurs pour établir un plan de prévention des risque toxiques
+
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaitre les bases de la toxicologie
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Identifier les bio indicateurs et prévention des risques
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+prévenir les infections toxiques
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaitre et prévenir les allergies
+</ns3:listItem>
+</ns3:list>
+ </ns3:learningObjectives>
+<ns3:formOfTeaching xmlns:ns3="http://cdm-fr.fr/2012/CDM">le mode de fonctionnement de l'UE est présenté au début des enseignements</ns3:formOfTeaching>
+<ns3:admissionInfo xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:ectsRequired xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns3:studentPlaces xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:admissionInfo>
+<ns3:instructionLanguage teachingLang="fr" xmlns:ns3="http://cdm-fr.fr/2012/CDM">Français</ns3:instructionLanguage>
+<ns3:searchword xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:courseIntroduction xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:syllabus xmlns:ns3="http://cdm-fr.fr/2012/CDM">l'ensemble des références bibliographiques est communiqué au début des enseignements</ns3:syllabus>
+<ns3:recommendedPrerequisites xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:formalPrerequisites xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:formOfAssessment xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+ <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Session1 :	<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>DST microbiologie  0,45	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>DST Toxicologie   0,4	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Tp Micro Toxico   0,15	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Pas de session2	 <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:formOfAssessment>
+<ns3:contacts xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:refOrgResp xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns3:refPerson ref="asarriea" role="contact" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:refPerson ref="defaultContact" role="enseignant" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:contacts>
+</ns3:course>
+<ns3:person ident="asarriea" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:personID xmlns:ns3="http://cdm-fr.fr/2012/CDM">asarriea</ns3:personID>
+<ns3:name xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:given xmlns:ns3="http://cdm-fr.fr/2012/CDM">Alain</ns3:given>
+<ns3:family xmlns:ns3="http://cdm-fr.fr/2012/CDM">Sarrieau</ns3:family>
+</ns3:name>
+<ns3:title xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:text xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:title>
+<ns3:role xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:affiliation xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:refOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:professField xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:sectCNU xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:sectionCNULibelValue xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">SANS DISCIPLINE</ns2:sectionCNULibelValue>
+</ns2:sectCNU>
+</ns2:affiliation>
+<ns2:activities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:teachingMajor xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:otherActivities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:subBlock userDefined="activiteProfessionnelle" xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns2:otherActivities>
+</ns2:activities>
+<ns3:contactData xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:adr xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:pobox xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:extadr xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:street xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:locality xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:pcode xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:country xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:adr>
+<ns3:visitHour xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:telephone teltype="office" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:fax xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:email xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:webLink xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:href xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:webLink>
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns3:contactData>
+</ns3:person><ns3:person ident="defaultContact" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:personID xmlns:ns3="http://cdm-fr.fr/2012/CDM">defaultContact</ns3:personID>
+<ns3:name xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:given xmlns:ns3="http://cdm-fr.fr/2012/CDM">la composition de l'ensemble de l'équipe pédagogique</ns3:given>
+<ns3:family xmlns:ns3="http://cdm-fr.fr/2012/CDM">est communiquée au début des enseignements</ns3:family>
+</ns3:name>
+<ns3:title xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:text xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:title>
+<ns3:role xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:affiliation xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:refOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:professField xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:sectCNU xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:sectionCNULibelValue xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">SANS DISCIPLINE</ns2:sectionCNULibelValue>
+</ns2:sectCNU>
+</ns2:affiliation>
+<ns2:activities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:teachingMajor xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:otherActivities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:subBlock userDefined="activiteProfessionnelle" xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns2:otherActivities>
+</ns2:activities>
+<ns3:contactData xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:adr xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:pobox xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:extadr xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:street xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:locality xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:pcode xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:country xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:adr>
+<ns3:visitHour xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:telephone teltype="office" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:fax xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:email xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:webLink xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:href xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:webLink>
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns3:contactData>
+</ns3:person>
+<ns3:course id="FRUAI0333298FCOEN_4691" ident="FRUAI0333298FCOEN_4691" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:courseID xmlns:ns3="http://cdm-fr.fr/2012/CDM">FRUAI0333298FCOEN_4691</ns3:courseID>
+<ns3:courseDescription xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:digitalUse xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:percentage xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns2:lcms xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns2:prodPeda xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+</ns2:digitalUse><ns2:infoBlock xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"><ul><li>Heures d'enseignement dispensées à l'étudiant : 60 heures</li>
+<li>Temps de travail personnel : 100 heures</li></ul>
+</ns2:infoBlock>
+<ns2:courseContentsEC xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" nature="Modules"/>
+</ns3:courseDescription>
+<ns3:courseName xmlns:ns3="http://cdm-fr.fr/2012/CDM">Hygiéne et risques sanitaires-Les procédés de décontamination</ns3:courseName>
+<ns3:level xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="CM" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="TP" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="TD" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="homeWork" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="ProfessTraining" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="trainingWeeks" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="all" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ECTScredits="6.0">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:globalVolume xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns3:learningObjectives xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><b>Objectifs :</b><br /> Appréhender la notion de maîtrise sanitaire en identifiant  les diverses sources de dangers à l'origine des contaminations dans l'entreprise,savoir  les mettre en évidence et définir les actions correctives.<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Connaitre les divers procédés de décontamination (chimiques, physiques , biologiques, ..) à disposition  pour lutter efficacement contre ces dangers et appréhender leur utilisation et leur efficacité par mise en pratique lors de travaux pratiques sur plateforme technologique .  
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><b>Compétences :</b><br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Se situer dans les différentes perspectives d'insertion professionnelle relatives à son champ disciplinaire.
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Travailler en réseau, utiliser les outils numériques de communication et de travail collaboratif.
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Travailler en équipe dans différents contextes, y compris avec des personnes issues de disciplines différentes : s'intégrer, se positionner, collaborer, communiquer et rendre compte.
+
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Etre capable de communiquer des résultats à l'écrit et à l'oral
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir participer à la formation des équipes et avoir des compétences d’animation
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Travailler en équipe autant qu’en autonomie au service d’un projet : s’intégrer, se positionner, collaborer, communiquer et rendre compte
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Collecter des informations (recherche bibliographique, veille technologique) sur un sujet nécessitant de confronter différentes sources d’information (web, ouvrages scientifiques, interview de spécialistes du secteur).
+</ns3:listItem>
+</ns3:list>
+<br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+S'organiser individuellement, gérer son temps et ses priorités
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Maitriser les méthodologies d'évaluation de ses actions
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Maîtriser l'expression écrite et orale de la langue française et ses techniques d'expression
+
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Faire preuve de capacités de recherche d'informations, d'analyse et de synthèse.
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Rédiger des documents de travail ( rapports, notes de synthèse...) adaptés aux personnes  et situations rencontrées  et appropriés aux organisations et structures concernées 
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir créer une présentation numérisée en respectant les règles d'usage et en étant capable de la personnaliser
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Comprendre et utiliser une référence bibliographique 
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir animer un groupe de travail ou de réflexion dans l'entreprise
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir faire une recherche bibliographique ; construire la bibliographie de son sujet et faire un compte-rendu de lecture
+</ns3:listItem>
+</ns3:list>
+<br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaitre , savoir appliquer et communiquer la réglementation en matiére d'hygiéne, de sécurité sanitaire de sécurité et d'environnement
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaitre les principes de l'évaluation des risques sanitaires, environnementaux et professionnels-Repérer les dangers, identifier les risques (aspects réglementaires, organisationnels et pratiques)
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Définir et participer à la mise en place d'indicateurs et de procédures de suivi des aspects  sanitaires, sécuritaires et environnementaux des activités de la structure
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Animer une réunion professionnelle 
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Etre capable de mettre en place un plan de nettoyage, de désinfection et de sanitation
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Etre capable de développer et de mettre en place un plan de surveillance 
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Etre capable d'utiliser les méthodes traditionnelles et les techniques rapides d'analyses pour vérifier l'efficacité des traitements .
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaitre les diverses techniques de décontamination
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaitre les diverses techniques de décontamination des matières premières, du matériel et de l'environnement
+</ns3:listItem>
+</ns3:list>
+ </ns3:learningObjectives>
+<ns3:formOfTeaching xmlns:ns3="http://cdm-fr.fr/2012/CDM">le mode de fonctionnement de l'UE est présenté au début des enseignements</ns3:formOfTeaching>
+<ns3:admissionInfo xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:ectsRequired xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns3:studentPlaces xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:admissionInfo>
+<ns3:instructionLanguage teachingLang="fr" xmlns:ns3="http://cdm-fr.fr/2012/CDM">Français</ns3:instructionLanguage>
+<ns3:searchword xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:courseIntroduction xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:syllabus xmlns:ns3="http://cdm-fr.fr/2012/CDM">l'ensemble des références bibliographiques est communiqué au début des enseignements</ns3:syllabus>
+<ns3:recommendedPrerequisites xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:formalPrerequisites xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:formOfAssessment xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+ <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Session1	<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Rapp  hygiène   0,5	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Rapp  procédés de décontamination   0,5	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Pas de session2	 <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:formOfAssessment>
+<ns3:contacts xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:refOrgResp xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns3:refPerson ref="maryguil" role="contact" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:refPerson ref="defaultContact" role="enseignant" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:contacts>
+</ns3:course><ns3:person ident="defaultContact" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:personID xmlns:ns3="http://cdm-fr.fr/2012/CDM">defaultContact</ns3:personID>
+<ns3:name xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:given xmlns:ns3="http://cdm-fr.fr/2012/CDM">la composition de l'ensemble de l'équipe pédagogique</ns3:given>
+<ns3:family xmlns:ns3="http://cdm-fr.fr/2012/CDM">est communiquée au début des enseignements</ns3:family>
+</ns3:name>
+<ns3:title xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:text xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:title>
+<ns3:role xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:affiliation xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:refOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:professField xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:sectCNU xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:sectionCNULibelValue xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">SANS DISCIPLINE</ns2:sectionCNULibelValue>
+</ns2:sectCNU>
+</ns2:affiliation>
+<ns2:activities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:teachingMajor xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:otherActivities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:subBlock userDefined="activiteProfessionnelle" xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns2:otherActivities>
+</ns2:activities>
+<ns3:contactData xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:adr xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:pobox xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:extadr xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:street xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:locality xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:pcode xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:country xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:adr>
+<ns3:visitHour xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:telephone teltype="office" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:fax xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:email xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:webLink xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:href xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:webLink>
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns3:contactData>
+</ns3:person>
+
+<ns3:program id="FRUAI0333298FPRCPL_4657" ident="FRUAI0333298FPRCPL_4657" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:programID xmlns:ns3="http://cdm-fr.fr/2012/CDM">FRUAI0333298FPRCPL_4657</ns3:programID>
+<ns2:programCode xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" codeSet="userDefined"/>
+<ns2:programDescription xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" nature="parcours"/>
+<ns2:programName xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ordinaryName="true">
+<ns2:text xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">projet tuteuré - Liste à choix d'UE obligatoires - ts sites confondus - 1 UE de 6 ects à choisir </ns2:text>
+</ns2:programName>
+<ns3:qualification xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ECTScredits="6">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:studyQualification xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:competenceDesc xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:competenceValidity limited="false" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:studyQualification>
+</ns3:qualification>
+<ns2:programStructure xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:refCourse ref="FRUAI0333298FCOEN_4658" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:refCourse ref="FRUAI0333298FCOEN_4660" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/></ns2:programStructure>
+</ns3:program>
+<ns3:course id="FRUAI0333298FCOEN_4658" ident="FRUAI0333298FCOEN_4658" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:courseID xmlns:ns3="http://cdm-fr.fr/2012/CDM">FRUAI0333298FCOEN_4658</ns3:courseID>
+<ns3:courseDescription xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:digitalUse xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:percentage xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns2:lcms xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns2:prodPeda xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+</ns2:digitalUse><ns2:infoBlock xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"><ul><li>Heures d'enseignement dispensées à l'étudiant : 0 heures</li>
+<li>Temps de travail personnel : 175 heures</li></ul>
+</ns2:infoBlock>
+<ns2:courseContentsEC xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" nature="Modules"/>
+</ns3:courseDescription>
+<ns3:courseName xmlns:ns3="http://cdm-fr.fr/2012/CDM">Projet tuteuré IAA-formation initiale</ns3:courseName>
+<ns3:level xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="CM" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="TP" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="TD" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="homeWork" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="ProfessTraining" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="trainingWeeks" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="all" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ECTScredits="6.0">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:globalVolume xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns3:learningObjectives xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><b>Objectifs :</b><br /> Le projet tuteuré pour les étudiants en formation initiale est une pré immersion dans la gestion d'un projet de groupe avant d'intégrer l'entreprise pour la période de stage. <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Ce projet tuteuré  repose sur l'ensemble des enseignements fournis et doit permettre aux étudiants de mobiliser  leur connaissance et de les réinvestir dans les divers domaines tel que la qualité, l' hygiène, la sécurité  et l'environnement . <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Cette expérience permet à chacun de travailler en équipe autant qu'en autonomie au service d'un projet et doit permettre à chacun de s'intégrer , se positionner, collaborer , communiquer et rendre compte .<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Pour les accompagner dans la démarche les étudiants ont pour référent les divers intervenants et des points sont réalisés à une fréquence définie au démarrage du projet  .Ce projet courre sur plusieurs périodes que sont celles où les étudiants de la licence en apprentissage sont en entreprise . Le temps imparti est de 9 semaines soit 315 heures si l'on compte 35 heures par semaine.<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Le projet tuteuré se clôture par la restitution d'un rapport écrit par groupe et d'une présentation orale devant un jury
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><b>Compétences :</b><br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Travailler en réseau, utiliser les outils numériques de communication et de travail collaboratif.
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Travailler en équipe dans différents contextes, y compris avec des personnes issues de disciplines différentes : s'intégrer, se positionner, collaborer, communiquer et rendre compte.
+
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Etre capable de communiquer des résultats à l'écrit et à l'oral
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Piloter et animer une équipe de travail , une equipe ou un groupe de projet -Gérer les conflits
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Travailler en équipe autant qu’en autonomie au service d’un projet : s’intégrer, se positionner, collaborer, communiquer et rendre compte
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Collecter des informations (recherche bibliographique, veille technologique) sur un sujet nécessitant de confronter différentes sources d’information (web, ouvrages scientifiques, interview de spécialistes du secteur).
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Situer son rôle et sa mission au sein d'une organisation pour s'adapter et prendre des initiatives
+</ns3:listItem>
+</ns3:list>
+<br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Maîtriser l'expression écrite et orale de la langue française et ses techniques d'expression
+
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Faire preuve de capacités de recherche d'informations, d'analyse et de synthèse.
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Rédiger des documents de travail ( rapports, notes de synthèse...) adaptés aux personnes  et situations rencontrées  et appropriés aux organisations et structures concernées 
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir créer une présentation numérisée en respectant les règles d'usage et en étant capable de la personnaliser
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir faire une recherche bibliographique ; construire la bibliographie de son sujet et faire un compte-rendu de lecture
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir animer un groupe de travail ou de réflexion dans l'entreprise
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Avoir des connaissances scientifiques et techniques
+</ns3:listItem>
+</ns3:list>
+ </ns3:learningObjectives>
+<ns3:formOfTeaching xmlns:ns3="http://cdm-fr.fr/2012/CDM">le mode de fonctionnement de l'UE est présenté au début des enseignements</ns3:formOfTeaching>
+<ns3:admissionInfo xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:ectsRequired xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns3:studentPlaces xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:admissionInfo>
+<ns3:instructionLanguage teachingLang="fr" xmlns:ns3="http://cdm-fr.fr/2012/CDM">Français</ns3:instructionLanguage>
+<ns3:searchword xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:courseIntroduction xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:syllabus xmlns:ns3="http://cdm-fr.fr/2012/CDM">l'ensemble des références bibliographiques est communiqué au début des enseignements</ns3:syllabus>
+<ns3:recommendedPrerequisites xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:formalPrerequisites xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:formOfAssessment xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+ <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>session1	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Rapport   0,5	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Soutenance   0,5	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>pas de session2	 <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:formOfAssessment>
+<ns3:contacts xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:refOrgResp xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns3:refPerson ref="mbaccaun" role="contact" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:refPerson ref="defaultContact" role="enseignant" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:contacts>
+</ns3:course><ns3:person ident="defaultContact" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:personID xmlns:ns3="http://cdm-fr.fr/2012/CDM">defaultContact</ns3:personID>
+<ns3:name xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:given xmlns:ns3="http://cdm-fr.fr/2012/CDM">la composition de l'ensemble de l'équipe pédagogique</ns3:given>
+<ns3:family xmlns:ns3="http://cdm-fr.fr/2012/CDM">est communiquée au début des enseignements</ns3:family>
+</ns3:name>
+<ns3:title xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:text xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:title>
+<ns3:role xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:affiliation xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:refOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:professField xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:sectCNU xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:sectionCNULibelValue xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">SANS DISCIPLINE</ns2:sectionCNULibelValue>
+</ns2:sectCNU>
+</ns2:affiliation>
+<ns2:activities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:teachingMajor xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:otherActivities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:subBlock userDefined="activiteProfessionnelle" xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns2:otherActivities>
+</ns2:activities>
+<ns3:contactData xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:adr xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:pobox xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:extadr xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:street xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:locality xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:pcode xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:country xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:adr>
+<ns3:visitHour xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:telephone teltype="office" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:fax xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:email xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:webLink xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:href xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:webLink>
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns3:contactData>
+</ns3:person>
+<ns3:course id="FRUAI0333298FCOEN_4660" ident="FRUAI0333298FCOEN_4660" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:courseID xmlns:ns3="http://cdm-fr.fr/2012/CDM">FRUAI0333298FCOEN_4660</ns3:courseID>
+<ns3:courseDescription xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:digitalUse xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:percentage xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns2:lcms xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns2:prodPeda xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+</ns2:digitalUse><ns2:infoBlock xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"><ul><li>Heures d'enseignement dispensées à l'étudiant : 0 heures</li>
+<li>Temps de travail personnel : 170 heures</li></ul>
+</ns2:infoBlock>
+<ns2:courseContentsEC xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" nature="Modules"/>
+</ns3:courseDescription>
+<ns3:courseName xmlns:ns3="http://cdm-fr.fr/2012/CDM">Projet tuteuré IAA-alternance</ns3:courseName>
+<ns3:level xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="CM" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="TP" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="TD" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="homeWork" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="ProfessTraining" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="trainingWeeks" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume teachingtype="all" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ECTScredits="6.0">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:globalVolume xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">0</ns2:globalVolume>
+</ns2:credits>
+<ns3:learningObjectives xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><b>Objectifs :</b><br /> Le projet tuteuré pour les étudiants en alternance est  une pré immersion dans la gestion d'un projet individuel au sein de l'entreprise d'accueil .<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>En amont de cette immersion le cadrage des attentes du projet est défini par un enseignant de communication et donne lieu à un rapport écrit et soutenu oralement .<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Cette expérience permet à l'étudiant de travailler en équipe autant qu'en autonomie au service d'un projet et doit lui permettre  de s'intégrer , se positionner, collaborer , communiquer et rendre compte .<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><b>Compétences :</b><br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Travailler en équipe dans différents contextes, y compris avec des personnes issues de disciplines différentes : s'intégrer, se positionner, collaborer, communiquer et rendre compte.
+
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Etre capable de communiquer des résultats à l'écrit et à l'oral
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Situer le fonctionnement d’une entreprise ou une organisation dans son contexte socio-économique, identiﬁer les personnes ressources et les diverses fonctions d’une organisation. 
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+S’organiser individuellement, gérer son temps et ses priorités, planifier ; s’autoévaluer
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Travailler en équipe autant qu’en autonomie au service d’un projet : s’intégrer, se positionner, collaborer, communiquer et rendre compte
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Se situer dans un environnement hiérarchique et professionnel, identifier ses compétences
+et respecter les procédures, la législation et les normes et, entre autres, les normes de
+sécurité, analyser les besoins de l’équipe et des usagers (ou des clients).
+</ns3:listItem>
+</ns3:list>
+<br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+S'organiser individuellement, gérer son temps et ses priorités
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Maîtriser l'expression écrite et orale de la langue française et ses techniques d'expression
+
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Faire preuve de capacités de recherche d'informations, d'analyse et de synthèse.
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir créer une présentation numérisée en respectant les règles d'usage et en étant capable de la personnaliser
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Avoir des connaissances scientifiques et techniques
+</ns3:listItem>
+</ns3:list>
+<br /><ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+piloter et planifier un projet
+</ns3:listItem>
+</ns3:list>
+ </ns3:learningObjectives>
+<ns3:formOfTeaching xmlns:ns3="http://cdm-fr.fr/2012/CDM">le mode de fonctionnement de l'UE est présenté au début des enseignements</ns3:formOfTeaching>
+<ns3:admissionInfo xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:ectsRequired xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns3:studentPlaces xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:admissionInfo>
+<ns3:instructionLanguage teachingLang="fr" xmlns:ns3="http://cdm-fr.fr/2012/CDM">Français</ns3:instructionLanguage>
+<ns3:searchword xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:courseIntroduction xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:syllabus xmlns:ns3="http://cdm-fr.fr/2012/CDM">l'ensemble des références bibliographiques est communiqué au début des enseignements</ns3:syllabus>
+<ns3:recommendedPrerequisites xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:formalPrerequisites xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:formOfAssessment xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+ <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>session1	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Rapport   0,5	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Soutenance   0,5	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>	   <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>pas de session2	 <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:formOfAssessment>
+<ns3:contacts xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:refOrgResp xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns3:refPerson ref="maryguil" role="contact" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:refPerson ref="defaultContact" role="enseignant" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:contacts>
+</ns3:course><ns3:person ident="defaultContact" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:personID xmlns:ns3="http://cdm-fr.fr/2012/CDM">defaultContact</ns3:personID>
+<ns3:name xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:given xmlns:ns3="http://cdm-fr.fr/2012/CDM">la composition de l'ensemble de l'équipe pédagogique</ns3:given>
+<ns3:family xmlns:ns3="http://cdm-fr.fr/2012/CDM">est communiquée au début des enseignements</ns3:family>
+</ns3:name>
+<ns3:title xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:text xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:title>
+<ns3:role xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:affiliation xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:refOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:professField xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:sectCNU xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:sectionCNULibelValue xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">SANS DISCIPLINE</ns2:sectionCNULibelValue>
+</ns2:sectCNU>
+</ns2:affiliation>
+<ns2:activities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:teachingMajor xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:otherActivities xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:subBlock userDefined="activiteProfessionnelle" xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns2:otherActivities>
+</ns2:activities>
+<ns3:contactData xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:adr xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:pobox xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:extadr xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:street xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:locality xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:pcode xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:country xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:adr>
+<ns3:visitHour xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:telephone teltype="office" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:fax xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:email xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:webLink xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:href xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:webLink>
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns3:contactData>
+</ns3:person>
+
+<ns3:program id="FRUAI0333298FPRPRLP_46" ident="PRLP_46" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:programID xmlns:ns3="http://cdm-fr.fr/2012/CDM">FRUAI0333298FPRPRLP_46</ns3:programID>
+<ns2:programName xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ordinaryName="true">
+<ns2:text xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">Industries agro-alimentaires : gestion, production et valorisation - Démarche qualité et maîtrise des risques en industrie agro-alimentaire</ns2:text>
+</ns2:programName>
+<ns3:webLink xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:href xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns3:webLink>
+<ns2:programCode xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:codeErasmus xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">16.9</ns2:codeErasmus>
+</ns2:programCode><ns2:programCode xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:libelErasmus xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+Qualité</ns2:libelErasmus>
+</ns2:programCode><ns3:learningObjectives xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:header xmlns:ns3="http://cdm-fr.fr/2012/CDM">Objectifs de la mention : </ns3:header><div class="accordion">
+<h4 class="h2" id="accordion-section-2539">Parcours Mention industries agro-alimentaires:gestion, production et valorisation: Démarche qualité et maîtrise des risques en industries agro -alimentaires</h4>
+
+</div>
+Avant de rentrer dans un descriptif de ce parcours il est important d'effectuer son positionnement <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Cette licence professionnelle existe depuis plus de 10 ans. Ciblée dés son origine maitrise des risques pour les entreprises du secteur agro alimentaire,  le déploiement d'autres licences professionnelles dans ce même secteur ont créé l'amalgame et la lisibilité n'était plus optimale. Le rapprochement sous une même mention industries agro alimentaires:gestion, production et valorisation avec une différenciation en parcours permet déjà de cibler le secteur , puis d'orienter le candidat vers le parcours sur lequel il décide de s'investir, la gestion de la production ou bien la maitrise générale des risques en industries agro alimentaires.<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>  L’objectif de cette licence est de former des cadres intermédiaires  à la maîtrise des risques dans les domaines de la qualité, de la sécurité , de l’hygiène et de l'environnement au sein des industries Agro-Alimentaires. Appréhender la gestion de la prévention jusqu'à la gestion de crise .<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Cette formation permet à l'étudiant de:<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>              -Découvrir les principales filières agro alimentaires et leurs spécificités<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>              -Acquérir des connaissances approfondies en management de la qualité, sécurité alimentaire , toxicologie et allergologie alimentaire ,microbiologie,<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>                procédés de décontamination  <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>              -Connaitre et maîtriser les différents intrants et sortants de l'entreprise <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>              -Acquérir les données sur les principes de sécurité et de maîtrise des risques  majeurs en entreprise <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>              -Analyser les risques sur l'environnement liés à l' activité professionnelle<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>              -Concevoir, mettre en place, animer, suivre la politique qualité, hygiène ,  sécurité et environnement<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>              -Sensibiliser, animer et former les opérateurs à l’hygiène, la qualité, la sécurité et l'environnement  <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>       <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Cette licence permet aussi à l'étudiant de le préparer à son futur métier en réalisant de nombreuses applications pratiques sur halle technologique et en animant  divers projets tuteurés sur plusieurs domaines .<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/> 
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<br />
+</ns3:learningObjectives>
+<ns2:programCode xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" codeSet="codeCNIS-NSF" />
+<ns3:teachingPlace xmlns:ns3="http://cdm-fr.fr/2012/CDM" /><ns2:programDescription xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:lifelongLearning lllContext="adossRech" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:header xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+Il s’agit ici d’une licence professionnelle qui ne débouche pas sur une activité de recherche appliquée mais sur un savoir faire technologique. C’est pourquoi il n’y a pas un adossement direct avec un ou des laboratoires de recherche. Cependant, cette licence professionnelle maitrise des risques a été montée et continue d’évoluer sur deux axes de recherche sur lesquels nous nous appuyons, axes que sont la microbiologie et la toxicologie.<br />
+Les enseignants dispensant divers de ces cours, travaux dirigés et travaux pratiques  sont des enseignants chercheurs intervenants  entre autre du CBMN et de Bordeaux sciences agro  avec lesquels nous avons des contacts étroits .Nos étudiants disposent des dernières informations et avancées en la matière (avancées et publications de l’AFSSA) 
+<br />
+</ns2:lifelongLearning>
+</ns2:programDescription>
+<ns3:programDuration start="2016-09-01" xmlns:ns3="http://cdm-fr.fr/2012/CDM">2 semestres<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:programDuration>
+<ns3:expenses currency="euros" xmlns:ns3="http://cdm-fr.fr/2012/CDM" /><ns2:ppalTeachingLanguage xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" teachingLang="fr"/>
+<ns2:programDescription xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:globalVolume teachingtype="TP" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+</ns2:programDescription>
+<ns2:programDescription xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:globalVolume teachingtype="TD" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+</ns2:programDescription>
+<ns2:programDescription xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:globalVolume teachingtype="CM" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+</ns2:programDescription>
+<ns2:programDescription xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:globalVolume teachingtype="ProfessTraining" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+</ns2:programDescription>
+<ns2:programDescription xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:globalVolume teachingtype="trainingWeeks" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+</ns2:programDescription>
+<ns3:formOfTeaching xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:header xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns3:formOfTeaching>
+<ns2:formOfAssessment xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:header xmlns:ns3="http://cdm-fr.fr/2012/CDM">MCC</ns3:header>
+En cours de finalisation<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:infoBlock><ns2:juryStruct xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:juryStructDesc xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:refPerson xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:juryStruct>
+</ns2:formOfAssessment>
+<ns3:recommendedPrerequisites xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:formalPrerequisites xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:admissionInfo xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:studentStatus xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:header xmlns:ns3="http://cdm-fr.fr/2012/CDM">Régime inscription</ns3:header>
+<ns3:p xmlns:ns3="http://cdm-fr.fr/2012/CDM">5</ns3:p>
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:subBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns2:studentStatus>
+<ns2:ectsRequired xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns3:admissionInfo>
+<ns3:admissionInfo xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:studentStatus xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:header xmlns:ns3="http://cdm-fr.fr/2012/CDM">Régime inscription</ns3:header>
+<ns3:p xmlns:ns3="http://cdm-fr.fr/2012/CDM">6</ns3:p>
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:subBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns2:studentStatus>
+<ns2:ectsRequired xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns3:admissionInfo>
+<ns3:admissionInfo xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:studentStatus xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:header xmlns:ns3="http://cdm-fr.fr/2012/CDM">Régime inscription</ns3:header>
+<ns3:p xmlns:ns3="http://cdm-fr.fr/2012/CDM">1</ns3:p>
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:subBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns2:studentStatus>
+<ns2:ectsRequired xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns3:admissionInfo>
+<ns3:admissionInfo xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:studentStatus xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:header xmlns:ns3="http://cdm-fr.fr/2012/CDM">Régime inscription</ns3:header>
+<ns3:p xmlns:ns3="http://cdm-fr.fr/2012/CDM">2</ns3:p>
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:subBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns2:studentStatus>
+<ns2:ectsRequired xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns3:admissionInfo>
+<ns2:programDescription xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:researchLink xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:relatedOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:relationType xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns2:refOrgUnit xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:relatedOrgUnit>
+</ns2:researchLink>
+</ns2:programDescription>
+<ns3:searchword xmlns:ns3="http://cdm-fr.fr/2012/CDM">LOC=AAAgen@Campus Michel Serres
+UE=OK</ns3:searchword><ns3:contacts xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:refPerson ref="maryguil" role="contact" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+
+<ns2:teachingTeam xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+ </ns3:contacts>
+<ns3:admissionInfo xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:admissionDescription xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:header xmlns:ns3="http://cdm-fr.fr/2012/CDM">Modalités d'inscription</ns3:header>
+</ns2:admissionDescription>
+<ns2:ectsRequired xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns3:studentPlaces places="25" xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns3:admissionInfo>
+<ns3:qualification xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:qualificationDescription xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ECTScredits="60">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+</ns2:credits>
+<ns2:profession xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:romeData romeCode="H1502" romeLibel="Management et ingénierie qualité industrielle" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:profession><ns2:profession xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:romeData romeCode="H1302" romeLibel="Management et ingénierie Hygiène Sécurité Environnement -HSE- industriels" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:profession>
+<ns2:studyQualification xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:header xmlns:ns3="http://cdm-fr.fr/2012/CDM">Compétences à acquérir</ns3:header>
+<br /><b>Compétences à acquérir : </b><br /><ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaitre les principes de l'évaluation des risques sanitaires, environnementaux et professionnels-Repérer les dangers, identifier les risques (aspects réglementaires, organisationnels et pratiques)
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Piloter et animer une équipe de travail , une equipe ou un groupe de projet -Gérer les conflits
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Savoir créer une présentation numérisée en respectant les règles d'usage et en étant capable de la personnaliser
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaitre les principaux risques sanitaires en fonction de l'origine des matières premières et des traitements technologiques 
+</ns3:listItem>
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+Connaitre , savoir appliquer et communiquer la réglementation en matiére d'hygiéne, de sécurité sanitaire de sécurité et d'environnement
+</ns3:listItem>
+</ns3:list>
+</ns3:infoBlock>
+<ns2:competenceDesc xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:competenceValidity limited="false" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:studyQualification>
+</ns3:qualification><ns2:programStructure xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:refProgram ref="FRUAI0333298FPRCPPT_2539" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:programStructure></ns3:program>
+<ns3:program id="FRUAI0333298FPRMELP_46" ident="MELP_46" xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:programID xmlns:ns3="http://cdm-fr.fr/2012/CDM">FRUAI0333298FPRMELP_46</ns3:programID>
+<ns2:programDescription xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" nature="mention"/>
+<ns2:programCode xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:codeDomain xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">5</ns2:codeDomain>
+</ns2:programCode><ns2:programCode xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:libelDomain xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">Sciences, Technologies, Santé</ns2:libelDomain>
+</ns2:programCode>
+<ns2:programName xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ordinaryName="true">
+<ns2:text xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">Industries agro-alimentaires : gestion, production et valorisation - Démarche qualité et maîtrise des risques en industrie agro-alimentaire</ns2:text>
+</ns2:programName>
+<ns2:programCode xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"><ns2:codeSectDGESIP xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">31409</ns2:codeSectDGESIP>
+</ns2:programCode>
+<ns2:programCode xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:libelSectDGESIP xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">Qualité</ns2:libelSectDGESIP>
+</ns2:programCode><ns3:webLink xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:href xmlns:ns3="http://cdm-fr.fr/2012/CDM"/></ns3:webLink><ns3:learningObjectives xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:header xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns3:learningObjectives>
+<ns2:aip xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:possibleFollowUp xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:header xmlns:ns3="http://cdm-fr.fr/2012/CDM">Poursuite d'études</ns3:header>
+<p><b>A l'université :</b></p><ul><li>Licence - Mention Sciences de la vie</li>
+</ul>
+
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+</ns2:possibleFollowUp>
+</ns2:aip>
+
+<ns2:aip xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:learningPathStrategySupport xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:header xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns2:learningPathStrategySupport>
+</ns2:aip>
+<ns2:aip xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:professTrainingSupport xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:header xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns2:professTrainingSupport>
+</ns2:aip>
+<ns3:admissionInfo xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:admissionDescription xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:header xmlns:ns3="http://cdm-fr.fr/2012/CDM" />L'accès à la licence professionnelle est ouvert aux candidats titulaires d’un diplôme national sanctionnant deux années d'enseignement supérieur validées (DEUG, DUT, BTS, BTSA, DEUST) dans un domaine de formation compatible avec celui de la licence professionnelle ou après validation d'un diplôme du domaine correspondant.<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Diplômes conseillés :<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Licence - Mention Sciences de la vie<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Licence Professionnelle - Mention industries agro-alimentaires : gestion, production et valorisation - Management de la production et valorisation en industrie agroalimentaire<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>DUT Génie Biologique option IAA, Agronomie<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>DUT Hygiène, sécurité, environnement<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>BTSA Sciences et technologies des aliments<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>BTS et BTSA analyses biologiques<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>BTS ou BTSA productions animales ou végétales<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>L2 sciences et technologie<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>L2 dans un des domaines suivants:biologie, biotechnologie, chimie, qualité, sécurité, environnement<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Equivalent BAC +2 dans un des domaines suivants:biologie, biotechnologies, qualité, hygiène,sécurité , environnement<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>DUT génie biologique option diététique,option analyses biologiques et biochimiques,option génie de l'environnement<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Les étudiants titulaires d'un autre diplôme peuvent se porter candidats. Leur dossier sera examiné par la commission pédagogique d'admission.  <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/><ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>Étudiants titulaires d'un titre d'accès ou en cours de cycle à l'étranger, toutes les informations sur la page dédiée du site de l'université de Bordeaux. <ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+
+<ns3:br xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns3:list xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:listItem xmlns:ns3="http://cdm-fr.fr/2012/CDM">Troisième année - Licence Professionnelle Industries agroalimentaires parcours Démarche qualité et maîtrise des risques en industries agro-alimentaires : 
+<ns3:webLink xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:href xmlns:ns3="http://cdm-fr.fr/2012/CDM">https://apoflux.u-bordeaux.fr/etudiant/index.php?type=etape%26val=4APAA3%26profil=</ns3:href>
+<ns3:linkName xmlns:ns3="http://cdm-fr.fr/2012/CDM">cliquez ici</ns3:linkName>
+</ns3:webLink>
+</ns3:listItem>
+</ns3:list>
+</ns2:admissionDescription>
+<ns2:ectsRequired xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns3:admissionInfo>
+<ns3:targetGroup xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+ <ns3:universalAdjustment xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns2:formOfAssessment xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:header xmlns:ns3="http://cdm-fr.fr/2012/CDM">Contrôle des connaissances</ns3:header>
+<ns3:subBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns3:infoBlock>
+<ns2:juryStruct xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:juryStructDesc xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:refPerson xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:juryStruct>
+</ns2:formOfAssessment>
+<ns3:searchword xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+<ns3:programIntroduction xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:header xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns3:programIntroduction>
+<ns3:qualification xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns2:credits xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" ECTScredits="">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM"/>
+<ns2:globalVolume xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+</ns2:credits>
+<ns2:degree xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" degree="master">LIC PRO</ns2:degree>
+<ns2:profession xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:header xmlns:ns3="http://cdm-fr.fr/2012/CDM">Débouchés</ns3:header>
+<ul>
+<li>Chargé ou agent  de sureté, d'hygiène et de sécurité, d'environnement</li>
+<li>Qualiticien en industrie agro-alimentaire</li>
+<li>Responsable qualité, sécurité ,hygiène et environnement</li>
+<li>Auditeur conseiller en hygiène , qualité , sécurité, maintenance</li>
+</ul>
+
+</ns3:infoBlock>
+<ns2:romeData xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:profession>
+
+<ns2:studyQualification xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:header xmlns:ns3="http://cdm-fr.fr/2012/CDM" />
+</ns3:infoBlock>
+<ns2:competenceDesc xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+<ns2:competenceValidity limited="false" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema" />
+</ns2:studyQualification>
+</ns3:qualification>
+<ns3:contacts xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:header xmlns:ns3="http://cdm-fr.fr/2012/CDM">Présentation et organisation de l'équipe pédagogique</ns3:header>
+</ns3:infoBlock>
+<ns2:refOrgResp xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:respRole xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">composante de responsabilité administrative</ns2:respRole>
+<ns2:refOrgUnit ref="NI_5" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:refOrgResp>
+<ns2:refOrgResp xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns2:respRole xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">composante de responsabilité pédagogique</ns2:respRole>
+<ns2:refOrgUnit ref="COMP_15" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:refOrgResp>
+</ns3:contacts>
+<ns2:programStructure xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema">
+<ns3:infoBlock xmlns:ns3="http://cdm-fr.fr/2012/CDM">
+<ns3:header xmlns:ns3="http://cdm-fr.fr/2012/CDM">Structure et organisation pédagogiques</ns3:header>
+</ns3:infoBlock>
+<ns2:refProgram ref="FRUAI0333298FPRPRLP_46" xmlns:ns2="http://cdm-fr.fr/2012/CDM-frSchema"/>
+</ns2:programStructure>
+</ns3:program>
+</CDM>
