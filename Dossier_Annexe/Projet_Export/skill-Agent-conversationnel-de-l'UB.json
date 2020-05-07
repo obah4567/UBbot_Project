@@ -1,0 +1,3184 @@
+{
+  "intents": [
+    {
+      "intent": "Renseignement_Inscription_Formation_Niveau",
+      "examples": [
+        {
+          "text": "Que faut il pour s'inscrire en m2 biologie?",
+          "mentions": [
+            {
+              "entity": "Formation",
+              "location": [
+                34,
+                42
+              ]
+            },
+            {
+              "entity": "Niveau",
+              "location": [
+                31,
+                33
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Quelles sont les démarches à faire pour s'inscrire en l3 droit civil?",
+          "mentions": [
+            {
+              "entity": "Formation",
+              "location": [
+                57,
+                68
+              ]
+            },
+            {
+              "entity": "Niveau",
+              "location": [
+                54,
+                56
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Je voudrais m'inscrire en m1 Chimie, que dois-je faire?",
+          "mentions": [
+            {
+              "entity": "Formation",
+              "location": [
+                29,
+                35
+              ]
+            },
+            {
+              "entity": "Niveau",
+              "location": [
+                26,
+                28
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Je souhaite m'inscrire en l2 informatique",
+          "mentions": [
+            {
+              "entity": "Formation",
+              "location": [
+                29,
+                41
+              ]
+            },
+            {
+              "entity": "Niveau",
+              "location": [
+                26,
+                28
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Peux-tu me dire ce qu'il me faut pour m'inscrire en l1 biologie?",
+          "mentions": [
+            {
+              "entity": "Formation",
+              "location": [
+                55,
+                63
+              ]
+            },
+            {
+              "entity": "Niveau",
+              "location": [
+                52,
+                54
+              ]
+            }
+          ]
+        }
+      ],
+      "description": "Contient les questions liées à la demande de renseignement sur l'inscription dans une formation donnée."
+    },
+    {
+      "intent": "Renseignement_Formation_Parcours_Niveau",
+      "examples": [
+        {
+          "text": "Puis-je obtenir des détails sur le m1 chimie",
+          "mentions": [
+            {
+              "entity": "Formation",
+              "location": [
+                38,
+                44
+              ]
+            },
+            {
+              "entity": "Niveau",
+              "location": [
+                35,
+                37
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Des renseignements sur la l3 informatique",
+          "mentions": [
+            {
+              "entity": "Formation",
+              "location": [
+                29,
+                41
+              ]
+            },
+            {
+              "entity": "Niveau",
+              "location": [
+                26,
+                28
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Peux-tu me fournir plus de renseignements sur la l1 Biologie?",
+          "mentions": [
+            {
+              "entity": "Formation",
+              "location": [
+                52,
+                60
+              ]
+            },
+            {
+              "entity": "Niveau",
+              "location": [
+                49,
+                51
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Est-ce possible d'avoir les renseignements de la l2 Droit civil",
+          "mentions": [
+            {
+              "entity": "Formation",
+              "location": [
+                52,
+                63
+              ]
+            },
+            {
+              "entity": "Niveau",
+              "location": [
+                49,
+                51
+              ]
+            }
+          ]
+        }
+      ],
+      "description": "Contient les questions liées à la demande de renseignement sur un niveau d'un parcours donné"
+    },
+    {
+      "intent": "Début_Conversation",
+      "examples": [
+        {
+          "text": "Je voudrais commencer."
+        },
+        {
+          "text": "Salut, le conseiller !"
+        },
+        {
+          "text": "Puis-je te poser des questions?"
+        },
+        {
+          "text": "J'ai pensé que je pourrais juste te dire bonjour !"
+        },
+        {
+          "text": "Commencez dès le début s'il vous plaît !"
+        },
+        {
+          "text": "Allez, commençons !"
+        },
+        {
+          "text": "Je suis heureux de te parler pour la première fois !"
+        },
+        {
+          "text": "Bonjour, qui êtes-vous?"
+        },
+        {
+          "text": "âllo, âllo !"
+        },
+        {
+          "text": "Bonjour, quoi de neuf ?"
+        }
+      ],
+      "description": "Début de conversation avec le bot"
+    },
+    {
+      "intent": "Renseignement_Inscription_Formation",
+      "examples": [
+        {
+          "text": "Je souhaite m'inscrire en informatique",
+          "mentions": [
+            {
+              "entity": "Formation",
+              "location": [
+                26,
+                38
+              ]
+            }
+          ]
+        }
+      ],
+      "description": "Contient les questions liées à la demande de renseignement sur l'inscription dans une formation donnée."
+    },
+    {
+      "intent": "Renseignement_UE_Semestre",
+      "examples": [
+        {
+          "text": "Est-ce possible d'avoir plus de détails sur les UE du semestre Biodiversité?"
+        },
+        {
+          "text": "Je souhaite obtenir des renseignements sur les UE d'un semestre."
+        },
+        {
+          "text": "Peux tu m'aider pour avoir plus de détails sur les UE d'un semestre?"
+        }
+      ],
+      "description": "Contient les questions liées a des renseignements sur les UE d'un semestre."
+    },
+    {
+      "intent": "Renseignement_Rencontre",
+      "examples": [
+        {
+          "text": "Je veux des renseignements sur la Oceanographie Chimique."
+        }
+      ],
+      "description": "Pour établir une rencontre avec un enseignant."
+    },
+    {
+      "intent": "Demande_etat_bot",
+      "examples": [
+        {
+          "text": "Comment ça se passe aujourd'hui ?"
+        },
+        {
+          "text": "Comment ça va ce soir?"
+        },
+        {
+          "text": "Comment tu te sens?"
+        },
+        {
+          "text": "Comment se passe votre journée ?"
+        },
+        {
+          "text": "Tu vas bien ?"
+        },
+        {
+          "text": "Comment allez-vous?"
+        },
+        {
+          "text": "Est-ce que vous passez une bonne journée?"
+        }
+      ],
+      "description": "Pour les questions liés à l'état du bot"
+    },
+    {
+      "intent": "Renseignement_Inscription",
+      "examples": [
+        {
+          "text": "Je veux des renseignements sur les procédures d'inscription"
+        },
+        {
+          "text": "Je souhaite m'inscrire"
+        },
+        {
+          "text": "Quelles sont les procédures d'inscription à l'université de bordeaux"
+        },
+        {
+          "text": "Je voudrais savoir quelles sont les démarches à suivre pour s'inscrire à l'université de bordeaux."
+        }
+      ],
+      "description": "Contient les questions liées à la demande de renseignement sur l'inscription"
+    },
+    {
+      "intent": "Renseignement_Matiere",
+      "examples": [
+        {
+          "text": "Je voudrais que tu m'aide à obtenir des renseignements sur une matière"
+        },
+        {
+          "text": "Est-ce possible d'avoir des renseignements sur une matière."
+        },
+        {
+          "text": "J'ai besoin de ton aide pour obtenir plus de détails sur une matière"
+        }
+      ],
+      "description": "Pour les renseignements lié à une matière donnée"
+    },
+    {
+      "intent": "Renseignement_UE_Semestre_Numéro",
+      "examples": [
+        {
+          "text": "Je veux des renseignements sur les UE du semestre 1",
+          "mentions": [
+            {
+              "entity": "Semestre",
+              "location": [
+                41,
+                51
+              ]
+            }
+          ]
+        }
+      ],
+      "description": "Contient les questions liées à la demande de renseignement sur les UE d'un semestre donné"
+    },
+    {
+      "intent": "Renseignement_Matiere_Nom",
+      "examples": [
+        {
+          "text": "Peux-tu me fournir plus de renseignements sur la compilation?"
+        }
+      ],
+      "description": "Pour les détails lié à une matière spécifique"
+    },
+    {
+      "intent": "Renseignement_UE_Semestre_Numéro_Formation",
+      "examples": [
+        {
+          "text": "Je veux des renseignements sur les UE du semestre 2 informatique",
+          "mentions": [
+            {
+              "entity": "Formation",
+              "location": [
+                52,
+                64
+              ]
+            },
+            {
+              "entity": "Semestre",
+              "location": [
+                41,
+                51
+              ]
+            }
+          ]
+        }
+      ],
+      "description": "Contient les questions liées à la demande de renseignement sur les UE d'un semestre d'une formation donnée."
+    },
+    {
+      "intent": "Renseignements",
+      "examples": [
+        {
+          "text": "Est-ce possible d'obtenir des renseignements sur l'UB?"
+        },
+        {
+          "text": "Peux-tu me rendre un service?"
+        },
+        {
+          "text": "J'ai besoin de ton aide pour obtenir quelques renseignements sur l'université de bordeaux"
+        },
+        {
+          "text": "Des renseignements sur l'UB"
+        },
+        {
+          "text": "Est-ce possible que tu m'aide à trouver quelques détails?"
+        },
+        {
+          "text": "Je souhaiterais obtenir quelques renseignements sur l'université de bordeaux"
+        },
+        {
+          "text": "Je voudrais obtenir plus de renseignements"
+        },
+        {
+          "text": "Je veux des renseignements"
+        }
+      ],
+      "description": "Contient le début de conversation pour toute demande"
+    },
+    {
+      "intent": "Renseignement_Formation_Parcours",
+      "examples": [
+        {
+          "text": "Puis-je obtenir plus de détails sur le parcours informatique",
+          "mentions": [
+            {
+              "entity": "Formation",
+              "location": [
+                48,
+                60
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Peux-tu me fournir plus de renseignements sur le parcours Biologie?",
+          "mentions": [
+            {
+              "entity": "Formation",
+              "location": [
+                58,
+                66
+              ]
+            }
+          ]
+        }
+      ],
+      "description": "Contient les questions liées à la demande de renseignement sur un parcours d'une formation donnée"
+    },
+    {
+      "intent": "Renseignement_Formations",
+      "examples": [
+        {
+          "text": "J'ai besoin de ton aide pour obtenir plus de détails sur une formation"
+        },
+        {
+          "text": "Je voudrais que tu m'aide à obtenir des renseignements sur une formation"
+        },
+        {
+          "text": "Je veux des renseignements sur une formation"
+        },
+        {
+          "text": "Est-ce possible d'avoir des renseignements sur une formation."
+        }
+      ],
+      "description": "Contient les questions liées à la demande de renseignement sur une formation"
+    },
+    {
+      "intent": "Fin_Conversation",
+      "examples": [
+        {
+          "text": "C'était sympa de bavarder avec toi!"
+        },
+        {
+          "text": "Donc, je vous remercie beaucoup de votre aide. Je vous souhaite une bonne journée !"
+        },
+        {
+          "text": "Je dois partir maintenant."
+        },
+        {
+          "text": "J'ai besoin d'une pause, au revoir !"
+        },
+        {
+          "text": "Je m'en vais maintenant."
+        },
+        {
+          "text": "OK, merci. Au revoir !"
+        },
+        {
+          "text": "Je rediscuterai avec vous plus tard."
+        },
+        {
+          "text": "Je n'ai plus de questions."
+        },
+        {
+          "text": "Je vais vous reparler bientôt."
+        },
+        {
+          "text": "Je voudrais arrêter là."
+        },
+        {
+          "text": "Je vais te parler plus tard !"
+        },
+        {
+          "text": "Merci beaucoup, on se reparle plus tard."
+        },
+        {
+          "text": "Nous allos rediscuter bientôt."
+        },
+        {
+          "text": "Ok, c'est tout ce dont j'ai besoin pour l'instant."
+        },
+        {
+          "text": "Passe une bonne journée !"
+        },
+        {
+          "text": "Pouvons-nous arrêter ?"
+        },
+        {
+          "text": "C'était un plaisir de chatter avec vous !"
+        },
+        {
+          "text": "C'est tout, merci."
+        },
+        {
+          "text": "Je pars maintenant, à plus !"
+        },
+        {
+          "text": "D'accord merci. Au revoir!"
+        }
+      ],
+      "description": "Terminez la conversation avec le bot"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Matière",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Traitement des données environnementales - Perfectionnement",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Indicateurs biologiques en milieu marin",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Production et Relations Trophiques en Milieu Marin",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Biogéochimie",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Changements Globaux",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Anglais et Pré-Professionnalisation en Oceanographie",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Biodiversité",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Stage long",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Observation et perturbation des écosystèmes côtiers",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Biogéochimie et eutrophisation",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Gestion intégrée des zones côtières",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Océanographie dynamique",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Océanographie Biologique",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Oceanographie Chimique",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Geologie des fonds marins",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Biologie et dynamique des populations marines exploitées",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Structure et fonctions des communautés marines",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Géologie Pétrolière",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Dynamique du Climat Passé",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Sédimentologie profonde",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Paléoclimatologie et Paléocéanographie",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "stage fin d'étude",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "formation complémentaire Liège ou Southampton",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "formation complémentaire à BILBAO",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Défis de l'Anthropocène",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Géochimie des environnements estuariens et côtiers",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Dynamique littorale",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Projet d'aménagement des environnements littoraux",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Sédimentologie littorale et profonde",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Hydrodynamique sédimentaire",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Anglais en M2",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Systèmes d'Information Géographique 2",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Systèmes d'Information Géographique 1",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "Autres",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Unité d'enseignement",
+          "synonyms": [
+            "U.E",
+            "UE",
+            "U-E",
+            "Matière"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Inscription",
+          "synonyms": [
+            "inscrire",
+            "inscription",
+            "m'inscrire",
+            "une inscription",
+            "réinscription",
+            "réinscrire"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Formation",
+          "synonyms": [
+            "Parcours",
+            "sur une formation",
+            "pour une formation"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Semestre",
+          "synonyms": [
+            "Unité d'enseignements d'un semestre",
+            "UE d'un semestre",
+            "U.E d'un semestre"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Formation",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Sciences de la terre",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Sciences et techniques des activités physiques et sportives",
+          "synonyms": [
+            "STAPS"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Theurmalisme",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Technologies de la santé",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Sociologie",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Sciences pour l'ingénieur",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Sciences de la vigne et du vin",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Médecine",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Pharmacie",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Physique",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Physique nucléaire et physique des hautes énergies",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Psychologie",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Ressources humaines",
+          "synonyms": [
+            "RH"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Santé",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Science politique",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Sciences cognitives",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Sciences de l'éducation",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Sciences de la vie",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Biologie",
+          "synonyms": [
+            "Bio"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Chimie",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Informatique",
+          "synonyms": [
+            "Info"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Comptabilité et gestion financière",
+          "synonyms": [
+            "CGF"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Administration économique et sociale",
+          "synonyms": [
+            "AES"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Anthropologie, Ethnologie",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Aéronautique",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Commerce",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Droit administratif",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Droit civil",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Droit constitutionnel",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Droit international et communautaire",
+          "synonyms": [
+            "DIC"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Droit pénal et sciences criminelles",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Droit social",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Économie",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Entrepreneuriat",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Environnement",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Épistomologie, médiation des sciences",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Gestion des organisations",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Hygiène et sécurité",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Ingénierie civile",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Ingénierie mécanique",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Maieutique",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Management",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Marketing",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Odontologie",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Paramédical",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Santé publique",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Mathématiques",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Niveau",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Licence 3",
+          "synonyms": [
+            "l3",
+            "3eme année",
+            "3e année",
+            "troisième année"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Licence 2",
+          "synonyms": [
+            "l2",
+            "2eme année",
+            "2e année",
+            "deuxième année",
+            "2e année de licence"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Master 2",
+          "synonyms": [
+            "m2",
+            "2eme année de master"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Master 1",
+          "synonyms": [
+            "m1",
+            "1ere année de master"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Licence 1",
+          "synonyms": [
+            "l1",
+            "1ere année",
+            "première année",
+            "1ere année de licence"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Salutation",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Hé",
+          "synonyms": [
+            "hey",
+            "hi"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Bonjour",
+          "synonyms": [
+            "bjr",
+            "bnjr"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Allo",
+          "synonyms": [
+            "allo allo",
+            "âllo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Coucou",
+          "synonyms": [
+            "cc"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Salut",
+          "synonyms": [
+            "slt"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Bonsoir",
+          "synonyms": [
+            "bsr",
+            "bnsr"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Responsable",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Philippe Galimard",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Zoubir Mehdi Sbartai",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jacqueline Saliba",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Franck Taillandier",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Andrzej Kusiak",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Youssef Benzoubair",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Yves Varaigne",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jean-Francois Lataste",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Sidi Mohammed El Achachi",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Stephane Morel",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Halidou Niandou",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Myriam Chaplain",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jean-Stephane Baste",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Denis Teissandier",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Thierry Correge",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Emmanuelle Ducassou",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Herve Gillet",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Frederique Eynaud",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jorg Schafer",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Gerard Blanc",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Vincent Hanquiez",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Sebastien Zaragosi",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Thierry Mulder",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Natalie Raymond",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Nicolas Savoye",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Pierre Anschutz",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Marie-Lise Benot",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Benoit Sautour",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Yolanda Del Amo",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Bruno Deflandre",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Bruno Malaize",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Alexandra Coynel",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Antoine Gremare",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Hugues Blanchet",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Bertrand Lubac",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jerome Bonnin",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jean-Luc Schneider",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Philippe Martinez",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Xavier De Montaudouin",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Laurence Maille",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Angeline Poulon",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Erik Souille",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jerome Roger",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Gerard Vignoles",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Sabine Castano",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Graziella Goglio",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Francis Rebillat",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Hannah Vallar",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Alexia Legeay",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Magalie Baudrimont",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Laurence Denaix",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Marie-Beatrice Thienpont",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Eric Villenave",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jerome Cachot",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Emilie Perraudin",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Blandine Davail",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Nathalie Geneste",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Agnes Feurtet-Mazel",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jean-Christophe Soetens",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Sebastien Bonhommeau",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Etienne Gaudin",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Inka Manek-Honninger",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Dimitri Batani",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Catherine Brulatout",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Yannick Petit",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Emmanuel Abraham",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Lionel Canioni",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jean-Christophe Delagnes",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jean Noel Bergeron",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Bernadette Duport",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Eric Mennier",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Roland Caubet",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Stephanie Baudy",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jean-Francois Le Meins",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Etienne Grau",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Cyril Brochon",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Frederic Nallet",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Philippe Cluzeau",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Olivier Mondain-Monval",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Benedicte Morin",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Gilles Philippot",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Alexandre Baron",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Antoine Fredoueil",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Veronique Coma",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jean-Pierre Renaudin",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Valerie David",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Sylvaine Chantreau",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Philippe Meurdesoif",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Gayo Diallo",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Luc Mieussens",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Rodolphe Turpault",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Matthias Robine",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Pierre Hanna",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Aldo Sottolichio",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Heloise Beaugendre",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Ahmed Noussair",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jean-Baptiste Burie",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Nadia Senechal",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Philippe Narbel",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Emmanuel Fleury",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Vincent Lepetit",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jenny Benois Pineau",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Pascal Desbarats",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jean-Francois Giovannelli",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Anne Vialard",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Aurelie Bugeau",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Olivier Brandouy",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Murat Yildizoglu",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Pierre Pesneau",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Xavier Blanc",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Thomas Place",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Vincent Couallier",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Michel Bonnefont",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Bruno Pinaud",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Guy Melancon",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jean-Philippe Domenger",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Lionel Clement",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "David Auber",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Marie Chavent",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Emmanuelle Gagnou",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Delphine Feral",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jennifer Henry",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Eric Sopena",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Francois Vanderbeck",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Francois Clautiaux",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Frantisek Kardos",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Paul Dorbec",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "El Maati Ouhabaz",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Quentin Griette",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Pierre Magal",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Adrien Richou",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Marc Arnaudon",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Stanislav Kupin",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Alain Bachelot",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jeremie Bigot",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Bernard Bercu",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jean-Francois Aujol",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Charles Dossal",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Marius Tucsnak",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Boris Detienne",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Charles-Henri Bruneau",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Yves Coudiere",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Catherine Poutiers-Peytureau",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Philippe Jaming",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Karim Kellay",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Franck Sueur",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Angelo Iollo",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Eric Lacoste",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Christophe Bois",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jean-Francois Bonnet",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Sakir Amiroudine",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jean-Luc Battaglia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Patrick Sebastian",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Wahbi Jomaa",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Catherine Froustey",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Yann Ledoux",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Marie Annick Denicour",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Olivier Cahuc",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Alexandre Lasserre",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Alex Ballu",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Bruno Vallespir",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "David Reungoat",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Francois Goossens",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Xavier Moreau",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Gaetan Albert",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Herve Wargnier",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Yannick Guillet",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "Semestre",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Semestre 6",
+          "synonyms": [
+            "S6"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Semestre 5",
+          "synonyms": [
+            "S5"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Semestre 4",
+          "synonyms": [
+            "S4"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Semestre 3",
+          "synonyms": [
+            "S3"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Semestre 2",
+          "synonyms": [
+            "S2"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Semestre 1",
+          "synonyms": [
+            "S1"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "dialog_nodes": [
+    {
+      "type": "slot",
+      "parent": "node_1_1588342763260",
+      "variable": "$Autres_Matiere",
+      "dialog_node": "slot_8_1588343091273",
+      "previous_sibling": "node_7_1588343393490"
+    },
+    {
+      "type": "standard",
+      "title": "Pour la détection de l'entité Matière",
+      "parent": "node_1_1588342763260",
+      "context": {
+        "r_matiere": "@Matière",
+        "matiere_verif_bis": "$matiere_verif"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_7_1588343852842"
+      },
+      "conditions": "@Matière && $matiere_verif || $r_m_verif",
+      "dialog_node": "node_7_1588343393490"
+    },
+    {
+      "type": "standard",
+      "title": "Matière",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_10_1585828854391",
+      "context": {
+        "matiere_verif": "@Autres:(Unité d'enseignement)"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_1_1588342763260"
+      },
+      "conditions": "@Autres:(Unité d'enseignement)",
+      "dialog_node": "node_4_1588341362574",
+      "previous_sibling": "node_2_1586991455984"
+    },
+    {
+      "type": "standard",
+      "title": "Inscription",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_10_1585828854391",
+      "context": {
+        "Inscription_Verif": "@Autres:Inscription"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_9_1586540991643"
+      },
+      "conditions": "@Autres:Inscription",
+      "dialog_node": "node_2_1586991455984",
+      "previous_sibling": "node_5_1586991358642"
+    },
+    {
+      "type": "standard",
+      "title": "UE semestre",
+      "parent": "node_10_1585828854391",
+      "context": {
+        "semestre_verif": "@Autres:Semestre"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_6_1587041551692"
+      },
+      "conditions": "@Autres:Semestre",
+      "dialog_node": "node_5_1586991358642",
+      "previous_sibling": "node_7_1586540880335"
+    },
+    {
+      "type": "standard",
+      "title": "Formation",
+      "parent": "node_10_1585828854391",
+      "context": {
+        "formation_verif": "@Autres:Formation"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1586540991643"
+      },
+      "conditions": "@Autres:Formation",
+      "dialog_node": "node_7_1586540880335",
+      "previous_sibling": "slot_7_1587911503152"
+    },
+    {
+      "type": "slot",
+      "parent": "node_10_1585828854391",
+      "dialog_node": "slot_7_1587911503152"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_2_1586989098637",
+      "variable": "$Niveau",
+      "dialog_node": "slot_2_1587912736722",
+      "previous_sibling": "slot_2_1587912662724"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_2_1586989098637",
+      "variable": "$Formation",
+      "dialog_node": "slot_2_1587912662724",
+      "previous_sibling": "response_10_1588254469482"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "<b>Carte d’identité de la formation:</b> $Niveau $Formation:\n\n     <b>Domaine :</b>  ?\n     <b>Formation :</b> $Formation\n     <b>Niveau :</b> $Niveau\n     <b>Durée :</b> 2 semestres\n     <b>Crédits :</b> 60 crédits ECTS\n     <b>Responsable :</b> ?\n     <b>Objectifs :</b> ?\n\n<b>Conditions d'admission:</b>\nL'accès en deuxième année est ouvert aux candidats titulaires de 60 crédits de licence ou après validation d'un diplôme du domaine correspondant.\n\nPour plus de renseignements, cliquez sur le lien suivant: <a title=\"Catalogue de formation\" href=\"https://www.u-bordeaux.fr/formation/catalogue\" target=\"_blank\">Catalogue de formation</a>"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1586989098637",
+      "disabled": true,
+      "conditions": "$Niveau==\"Licence 2\" ||    $Niveau==\"l2\" ||   $Niveau==\"deuxième année\" ||  $Niveau==\"2eme année\" || $Niveau==\"2e année\"",
+      "dialog_node": "response_10_1588254469482"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1586541322041",
+      "context": {
+        "r_formation": "@Formation",
+        "formation_verif_bis": "$formation_verif"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_7_1586541210199"
+      },
+      "conditions": "$formation_verif || $r_f_verif",
+      "dialog_node": "response_9_1587052542426"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Quelle formation svp?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_2_1587912662724",
+      "event_name": "focus",
+      "dialog_node": "handler_10_1587912662891",
+      "previous_sibling": "handler_1_1587912662891"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_2_1587912662724",
+      "context": {
+        "Formation": "@Formation"
+      },
+      "conditions": "@Formation",
+      "event_name": "input",
+      "dialog_node": "handler_1_1587912662891"
+    },
+    {
+      "type": "slot",
+      "parent": "node_9_1587938214247",
+      "variable": "$Autres_Inscription",
+      "dialog_node": "slot_6_1587938428597",
+      "previous_sibling": "node_4_1587939112950"
+    },
+    {
+      "type": "standard",
+      "title": "Pour la détection de l'entité Formation(Inscription)",
+      "parent": "node_9_1587938214247",
+      "context": {
+        "r_inscription": "@Formation",
+        "inscription_verif_bis": "$Inscription_Verif"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_4_1587939737682"
+      },
+      "conditions": "@Formation && $Inscription_Verif || $r_i_verif",
+      "dialog_node": "node_4_1587939112950"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_7_1587051069828",
+      "variable": "$Formation",
+      "dialog_node": "slot_2_1587915514269",
+      "previous_sibling": "response_4_1588434923427"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_7_1587051069828",
+      "variable": "$Niveau",
+      "dialog_node": "slot_4_1587915569102",
+      "previous_sibling": "slot_2_1587915514269"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<ul>\nL'inscription en <b>$Niveau $Formation</b>\n se déroule en<b> 4 étapes :</b>\n\n<b>Etape 1 - </b>Inscription administrative\n<li><b>Inscription :</b> entre le ..... et le .....</li>\n<li><b>Dépôt des pièces justificatives en ligne :</b> entre le ..... et le .....</li>\n<b>Etape 2 - </b>Contrat pédagogique de réussite(AGIR)\n Lorsque votre inscription administrative sera effectuée, vous devrez, en utilisant le lien https://agir.u-bordeaux.fr, élaborer votre contrat pédagogique de réussite qui permettra l'accompagnement par le directeur des études.\n\n<b>Etape 3 - </b>Inscription pédagogique\nLes inscriptions pédagogiques se font en ligne via l’ENT  (cliquer sur \"activer mon IDNUM\" muni de votre numéro d'étudiant) puis rubriques « mon dossier » « inscription pédagogique » du ..... au ..... .\n\n<b>Etape 4 - </b>Retrait de la carte d'étudiant et des certificats de scolarité \nLorsque vous verrez sur PJWEB que vos pièces justificatives déposées en ligne seront toutes validées par la scolarité (attention aucun mail ne sera envoyé pour vous avertir), vous pourrez venir retirer votre carte d’étudiant et vos certificats de scolarité avant le .....  ou à partir du ..... à la Salle .... de ..... à ......\n\nMerci de présenter une pièce d’identité pour retirer ces documents.\n\nPour plus d'info, cliquez : <a title=\"S'inscrire\" href=\"https://www.u-bordeaux.fr/Profils/Etudiant/College-des-sciences-de-l-Homme/S-inscrire\" target=\"_blank\">ici</a>\n\n<b>Contact Service scolarité</b>\nScolarité du Collège Sciences de l'homme\n\n3ter, place de la Victoire\n33076 BORDEAUX CEDEX\n\n05 57 57 19 15\n<a href=\"mailto:scolarite.sciences-homme@u-bordeaux.fr\">Contacter par courriel</a>\n</ul>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1587051069828",
+      "disabled": true,
+      "conditions": "",
+      "dialog_node": "response_4_1588434923427"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Veuillez indiquer pour quelle formation souhaitez-vous"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_2_1587911701304",
+      "event_name": "focus",
+      "dialog_node": "handler_5_1587911701443",
+      "previous_sibling": "handler_2_1587911701442"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_2_1587911701304",
+      "context": {
+        "Formation": "@Formation"
+      },
+      "conditions": "@Formation",
+      "event_name": "input",
+      "dialog_node": "handler_2_1587911701442"
+    },
+    {
+      "type": "frame",
+      "title": "Renseignement sur une inscription dans une formation",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Dites-moi pour quel niveau de <b>$r_inscription_bis</b>?"
+              },
+              {
+                "text": "En quel niveau de <b>$r_inscription_bis</b> s'il vous plaît?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1585828100973",
+      "context": {
+        "r_inscription_bis": "$Formation"
+      },
+      "conditions": "#Renseignement_Inscription_Formation || $r_inscription",
+      "dialog_node": "node_4_1587939737682",
+      "previous_sibling": "node_1_1588342763260"
+    },
+    {
+      "type": "frame",
+      "title": "Renseignement sur une formation",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "En quelle formation?"
+              },
+              {
+                "text": "Pour quelle formation?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_6_1585828100973",
+      "context": {
+        "r_f_verif": "$Autres_Formation"
+      },
+      "conditions": "#Renseignement_Formations || $formation_verif",
+      "dialog_node": "node_9_1586540991643",
+      "previous_sibling": "node_10_1585828854391"
+    },
+    {
+      "type": "frame",
+      "title": "Pour le resultat final lié à la demande d'info sur l'inscription",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<ul>\nL'inscription en <b>$Niveau $Formation</b>\n se déroule en<b> 4 étapes :</b>\n\n<b>Etape 1 - </b>Inscription administrative\n<li><b>Inscription :</b> entre le ...?... et le ...?... </li>\n<li><b>Dépôt des pièces justificatives en ligne :</b> entre le ...?... et le ...?... </li>\n<b>Etape 2 - </b>Contrat pédagogique de réussite(AGIR)\n Lorsque votre inscription administrative sera effectuée, vous devrez, en utilisant le lien https://agir.u-bordeaux.fr, élaborer votre contrat pédagogique de réussite qui permettra l'accompagnement par le directeur des études.\n\n<b>Etape 3 - </b>Inscription pédagogique\nLes inscriptions pédagogiques se font en ligne via l’ENT  (cliquer sur \"activer mon IDNUM\" muni de votre numéro d'étudiant) puis rubriques « mon dossier » « inscription pédagogique » du ...?... au ...?... .\n\n<b>Etape 4 - </b>Retrait de la carte d'étudiant et des certificats de scolarité \nLorsque vous verrez sur PJWEB que vos pièces justificatives déposées en ligne seront toutes validées par la scolarité (attention aucun mail ne sera envoyé pour vous avertir), vous pourrez venir retirer votre carte d’étudiant et vos certificats de scolarité avant le  ...?...  ou à partir du ...?... à la Salle ...?... de ...?... à ...?...\n\nMerci de présenter une pièce d’identité pour retirer ces documents.\n\nPour plus d'info, cliquez : <a title=\"S'inscrire\" href=\"https://www.u-bordeaux.fr/Profils/Etudiant/College-des-sciences-de-l-Homme/S-inscrire\" target=\"_blank\">ici</a>\n\n<b>Contact Service scolarité</b>\nScolarité du Collège Sciences de l'homme\n\n3ter, place de la Victoire\n33076 BORDEAUX CEDEX\n\n05 57 57 19 15\n<a href=\"mailto:scolarite.sciences-homme@u-bordeaux.fr\">Contacter par courriel</a>\n</ul>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1585828100973",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#Renseignement_Inscription_Formation_Niveau || $r_i_f_parcours",
+      "dialog_node": "node_7_1587051069828",
+      "previous_sibling": "node_2_1586989098637"
+    },
+    {
+      "type": "frame",
+      "title": "Renseignements sur un parcours",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Pour quel niveau de <b>$Formation</b>?"
+              },
+              {
+                "text": "Quel niveau d'étude de <b>$Formation</b>?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1585828100973",
+      "context": {
+        "r_formation_bis": "$Formation"
+      },
+      "conditions": "#Renseignement_Formation_Parcours || $r_formation",
+      "dialog_node": "node_7_1586541210199",
+      "previous_sibling": "node_9_1587938214247"
+    },
+    {
+      "type": "frame",
+      "title": "Pour le resultat final lié aux UE d'un semestre",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tout ce qu'il faut savoir sur le : <b>$UE_Semestre_Verif, $Formation </b>\n<b>Année universitaire :  ...?... </b>\n<b>Responsable :  ...?... </b>"
+              },
+              {
+                "text": "<ul>\n<b>Contenu pédagogique </b>\n<b>Les Unités d’Enseignement –U.E.  </b>\n\nCours obligatoires du <b>$UE_Semestre_Verif:</b>\n    <li>  Matière : ...?...    (Responsable :  ...?...  ) </li>\n    <li>  Matière : ...?...    (Responsable :  ...?... ) </li>\n    <li>  Matière : ...?...    (Responsable :  ...?... ) </li>\n    <li>  Matière : ...?...    (Responsable :  ...?... ) </li>\n    <li>  Matière : ...?...    (Responsable :  ...?... ) </li>\n\nOptions <b>$UE_Semestre_Verif:</b>\n    <li>  Matière : ...?...    (Responsable :  ...?...  ) </li>\n    <li>  Matière : ...?...    (Responsable :  ...?... ) </li>\n    <li>  Matière : ...?...    (Responsable :  ...?... ) </li>\n    <li>  Matière : ...?...    (Responsable :  ...?... ) </li>\n</ul>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_6_1585828100973",
+      "conditions": "$UE_Semestre_Verif || #Renseignement_UE_Semestre_Numéro_Formation",
+      "dialog_node": "node_8_1587942496894",
+      "previous_sibling": "node_7_1587051069828"
+    },
+    {
+      "type": "frame",
+      "title": "Renseignement sur une matière",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sur quelle <b>matière</b> s'il vous plaît?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1585828100973",
+      "context": {
+        "r_m_verif": "$Autres_Matiere"
+      },
+      "conditions": "#Renseignement_Matiere || $matiere_verif",
+      "dialog_node": "node_1_1588342763260",
+      "previous_sibling": "node_7_1586541210199"
+    },
+    {
+      "type": "standard",
+      "title": "Pour les renseignements liés aux UE d'un semestre",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Pour quel <b>semestre</b> s'il vous plaît?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1585828100973",
+      "context": {},
+      "conditions": "#Renseignement_UE_Semestre || $semestre_verif",
+      "dialog_node": "node_6_1587041551692",
+      "previous_sibling": "node_4_1587939737682"
+    },
+    {
+      "type": "frame",
+      "title": "Renseignement sur une inscription",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "En quelle formation?"
+              },
+              {
+                "text": "Pour quelle formation?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_6_1585828100973",
+      "context": {
+        "r_i_verif": "$Autres_Inscription"
+      },
+      "conditions": "#Renseignement_Inscription || $Inscription_Verif",
+      "dialog_node": "node_9_1587938214247",
+      "previous_sibling": "node_9_1586540991643"
+    },
+    {
+      "type": "frame",
+      "title": "Pour le resultat final lié à une matière spécifique",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<ul>\n   Détails concernant : <b> $Matiere</b>\n   <b>Informations :</b>\n   <li> Langue d'enseignement : Français </li>\n   <li> Crédits ECTS : ...?... </li>\n   <b>Programme</b>\n   <li>Heures d'enseignement dispensées à l'étudiant :  ...?... </li>\n    <li>Temps de travail personnel : ...?... </li>\n<b>Objectifs et compétences</b>\n        <li>Objectifs: ...?... </li>\n        <li>Compétences: ...?... </li>\n<b>Organisation pédagogique:</b>\nLe mode de fonctionnement de l'UE est présenté au début des enseignements\n <b>Contrôle des connaissances:</b>\n      <li>La première session est constituée de  ...?... </li>\n      <li>La seconde session est constituée de : ...?... </li>\n <b>Lectures recommandées</b>\n     L'ensemble des références bibliographiques est communiqué au début des enseignements\n <b>Responsable de l'unité d'enseignement: </b>...?...\n <b>Enseignants</b>\n   La composition de l'ensemble de l'équipe pédagogique est communiquée au début des enseignements\n</ul>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1585828100973",
+      "conditions": "#Renseignement_Matiere_Nom || $r_matiere",
+      "dialog_node": "node_7_1588343852842",
+      "previous_sibling": "node_8_1587942496894"
+    },
+    {
+      "type": "frame",
+      "title": "Pour les détails lié à un niveau de formation",
+      "output": {
+        "text": {
+          "values": [
+            "<b>Carte d’identité de la formation:</b> $Niveau $Formation:\n\n$essai\n     <b>Domaine :</b>  ...?...\n     <b>Formation :</b> $Formation\n     <b>Niveau :</b> $Niveau\n     <b>Durée :</b> 2 semestres\n     <b>Crédits :</b> 60 crédits ECTS\n     <b>Responsable :</b>  ...?...\n     <b>Objectifs :</b>  ...?...\n\n<b>Conditions d'admission:</b>\nL'accès en ..?... est ouvert aux candidats titulaires de ...?... ou après validation d'un diplôme du domaine correspondant.\n\nPour plus de renseignements, cliquez sur le lien suivant: <a title=\"Catalogue de formation\" href=\"https://www.u-bordeaux.fr/formation/catalogue\" target=\"_blank\">Catalogue de formation</a>"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_6_1585828100973",
+      "context": {
+        "essai": "<? input.text ?>"
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#Renseignement_Formation_Parcours_Niveau || $r_f_parcours",
+      "dialog_node": "node_2_1586989098637",
+      "previous_sibling": "node_6_1587041551692"
+    },
+    {
+      "type": "standard",
+      "title": "Renseignements",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Oui en quoi puis-je vous aider?"
+              },
+              {
+                "text": "Oui, dites moi qu'est-ce que vous voulez savoir."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Options disponibles",
+            "options": [
+              {
+                "label": "Formation",
+                "value": {
+                  "input": {
+                    "text": "@Autres:Formation"
+                  }
+                }
+              },
+              {
+                "label": "Inscription",
+                "value": {
+                  "input": {
+                    "text": "@Autres:Inscription"
+                  }
+                }
+              },
+              {
+                "label": "Semestre",
+                "value": {
+                  "input": {
+                    "text": "@Autres:Semestre"
+                  }
+                }
+              },
+              {
+                "label": "Matière",
+                "value": {
+                  "input": {
+                    "text": "@Autres:(Unité d'enseignement)"
+                  }
+                }
+              }
+            ],
+            "description": "Veuillez sélectionner l'une des options suivantes",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_6_1585828100973",
+      "conditions": "#Renseignements",
+      "dialog_node": "node_10_1585828854391"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1586989183414",
+      "context": {
+        "r_f_parcours": "@Niveau"
+      },
+      "disabled": true,
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_2_1586989098637"
+      },
+      "conditions": "($formation_verif_bis || $r_f_verif) &&               ($r_formation || $r_formation_bis) || $r_formation_bis && @Niveau",
+      "dialog_node": "response_4_1587050044021"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "UBbot Assist",
+            "source": "http://127.0.0.1:5000/static/images/UBbot.jpg",
+            "description": "Agent conversationnel de l'UB",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "Bonjour, je suis <b>UBbot Assist</b>. Un assistant virtuel conçu pour et par des étudiants pour offrir plus d’assistance virtuel au sein de l’<b>Université de Bordeaux</b>.\n Comment puis-je vous aider?"
+              },
+              {
+                "text": "Bonjour, dites-moi en quoi puis-je vous aider et je m'occupe du reste!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "Bienvenue",
+      "dialog_node": "response_8_1585825135992"
+    },
+    {
+      "type": "standard",
+      "title": "Pour reconnaitre le niveau",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1586541210199",
+      "context": {
+        "r_f_parcours": "@Niveau"
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_2_1586989098637"
+      },
+      "conditions": "($formation_verif_bis || $r_f_verif) &&  ($r_formation || $r_formation_bis) || @Niveau",
+      "dialog_node": "node_8_1586989183414",
+      "previous_sibling": "slot_2_1587911701304"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_7_1586541210199",
+      "variable": "$Formation",
+      "dialog_node": "slot_2_1587911701304"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_4_1587939737682",
+      "variable": "$Formation",
+      "dialog_node": "slot_6_1587940000160",
+      "previous_sibling": "node_7_1587940725215"
+    },
+    {
+      "type": "standard",
+      "title": "Pour reconnaitre le niveau",
+      "parent": "node_4_1587939737682",
+      "context": {
+        "r_i_f_parcours": "@Niveau"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_7_1587051069828"
+      },
+      "conditions": "($inscription_verif_bis || $r_i_verif) &&     ($r_inscription || $r_inscription_bis) || @Niveau",
+      "dialog_node": "node_7_1587940725215"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_7_1587911503152",
+      "event_name": "focus",
+      "dialog_node": "handler_3_1587911503321",
+      "previous_sibling": "handler_7_1587911503321"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_7_1587911503152",
+      "event_name": "input",
+      "dialog_node": "handler_7_1587911503321"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Formation?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_5_1587917372771",
+      "context": {},
+      "event_name": "focus",
+      "dialog_node": "handler_9_1587917373012",
+      "previous_sibling": "handler_9_1587917373011"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_5_1587917372771",
+      "context": {
+        "Autres_Formation": "@Autres || @Formation"
+      },
+      "conditions": "@Autres || @Formation",
+      "event_name": "input",
+      "dialog_node": "handler_9_1587917373011"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Veuillez indiquer la formation svp?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_6_1587940000160",
+      "event_name": "focus",
+      "dialog_node": "handler_8_1587940000311",
+      "previous_sibling": "handler_4_1587940000311"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_6_1587940000160",
+      "context": {
+        "Formation": "@Formation"
+      },
+      "conditions": "@Formation",
+      "event_name": "input",
+      "dialog_node": "handler_4_1587940000311"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Pour quel niveau?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_4_1587915569102",
+      "event_name": "focus",
+      "dialog_node": "handler_6_1587915569130",
+      "previous_sibling": "handler_8_1587915569130"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_4_1587915569102",
+      "context": {
+        "Niveau": "@Niveau"
+      },
+      "conditions": "@Niveau",
+      "event_name": "input",
+      "dialog_node": "handler_8_1587915569130"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Pour quelle formation s'il vous plaît?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_5_1587942748966",
+      "event_name": "focus",
+      "dialog_node": "handler_4_1587942749221",
+      "previous_sibling": "handler_2_1587942749221"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_5_1587942748966",
+      "context": {
+        "Formation": "@Formation"
+      },
+      "conditions": "@Formation",
+      "event_name": "input",
+      "dialog_node": "handler_2_1587942749221"
+    },
+    {
+      "type": "standard",
+      "title": "Pour la détection de l'entité \"Formation\"",
+      "parent": "node_9_1586540991643",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Formation",
+      "dialog_node": "node_2_1586541322041",
+      "previous_sibling": "slot_5_1587917372771"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_9_1586540991643",
+      "variable": "$Autres_Formation",
+      "dialog_node": "slot_5_1587917372771"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_7_1588343852842",
+      "variable": "$Matiere",
+      "dialog_node": "slot_6_1588344355363"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_8_1588343091273",
+      "event_name": "focus",
+      "dialog_node": "handler_2_1588343091544",
+      "previous_sibling": "handler_10_1588343091544"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_8_1588343091273",
+      "context": {
+        "Autres_Matiere": "@Autres"
+      },
+      "conditions": "@Autres",
+      "event_name": "input",
+      "dialog_node": "handler_10_1588343091544"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_8_1587942496894",
+      "variable": "$Formation",
+      "dialog_node": "slot_5_1587942748966"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Veuillez donner le nom de la matière."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_6_1588344355363",
+      "event_name": "focus",
+      "dialog_node": "handler_9_1588344355531",
+      "previous_sibling": "handler_1_1588344355531"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_6_1588344355363",
+      "context": {
+        "Matiere": "@Matière"
+      },
+      "conditions": "@Matière",
+      "event_name": "input",
+      "dialog_node": "handler_1_1588344355531"
+    },
+    {
+      "type": "standard",
+      "title": "Pour la reconnaisance d'un semestre",
+      "parent": "node_6_1587041551692",
+      "context": {
+        "UE_Semestre_Verif": "@Semestre"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_8_1587942496894"
+      },
+      "conditions": "@Semestre",
+      "dialog_node": "node_3_1587052061908"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Je vais bien merci!",
+            "Oh moi je suis en pleine forme!!!"
+          ],
+          "selection_policy": "random"
+        }
+      },
+      "parent": "node_2_1585827152090",
+      "conditions": "#Demande_etat_bot",
+      "dialog_node": "response_6_1585827708825",
+      "previous_sibling": "response_3_1585827542051"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Bonjour, que puis-je faire pour vous s'il vous plaît?",
+            "Bonjour, comment puis-je vous aider?",
+            "Bonjour, en quoi puis-je vous aider?"
+          ],
+          "selection_policy": "random"
+        }
+      },
+      "parent": "node_2_1585827152090",
+      "dialog_node": "response_3_1585827819658",
+      "previous_sibling": "response_6_1585827708825"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "@Salutation, comment puis-je vous aider ?",
+            "@Salutation, en quoi vais-je vous aider s'il vous plaît ?",
+            "@Salutation, que puis-je faire pour vous?"
+          ],
+          "selection_policy": "random"
+        }
+      },
+      "parent": "node_2_1585827152090",
+      "conditions": "@Salutation:Bonjour || @Salutation:Bonsoir",
+      "dialog_node": "response_3_1585827542051",
+      "previous_sibling": "response_9_1585827377116"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "@Salutation, que puis-je faire pour toi?"
+              },
+              {
+                "text": "@Salutation, en quoi puis-je t'aider?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1585827152090",
+      "conditions": "@Salutation:Salut || @Salutation:Allo || @Salutation:Coucou || @Salutation:Hé",
+      "dialog_node": "response_9_1585827377116"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Quelle niveau svp?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_2_1587912736722",
+      "event_name": "focus",
+      "dialog_node": "handler_4_1587912736751",
+      "previous_sibling": "handler_2_1587912736751"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_2_1587912736722",
+      "context": {
+        "Niveau": "@Niveau"
+      },
+      "conditions": "@Niveau",
+      "event_name": "input",
+      "dialog_node": "handler_2_1587912736751"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_6_1587938428597",
+      "event_name": "focus",
+      "dialog_node": "handler_10_1587938428805",
+      "previous_sibling": "handler_2_1587938428804"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_6_1587938428597",
+      "context": {
+        "Autres_Inscription": "@Autres"
+      },
+      "conditions": "@Autres",
+      "event_name": "input",
+      "dialog_node": "handler_2_1587938428804"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Quelle formation: Inscription?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_2_1587915514269",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1587915514388",
+      "previous_sibling": "handler_5_1587915514388"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_2_1587915514269",
+      "context": {
+        "Formation": "@Formation"
+      },
+      "conditions": "@Formation",
+      "event_name": "input",
+      "dialog_node": "handler_5_1587915514388"
+    },
+    {
+      "type": "standard",
+      "title": "Fin de conversation",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Le plaisir est partagé!"
+              },
+              {
+                "text": "Merci. Au revoir!"
+              },
+              {
+                "text": "Merci. À bientôt."
+              },
+              {
+                "text": "Je vous en prie!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#Fin_Conversation",
+      "dialog_node": "node_3_1585826996088",
+      "previous_sibling": "node_6_1585828100973"
+    },
+    {
+      "type": "standard",
+      "title": "Début de conversation",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Début_Conversation || @Salutation || #Demande_etat_bot",
+      "dialog_node": "node_2_1585827152090",
+      "previous_sibling": "Bienvenue"
+    },
+    {
+      "type": "standard",
+      "title": "Tout le reste",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Je n'ai pas compris. Pouvez-vous  reformuler s'il vous plaît?"
+              },
+              {
+                "text": "Pouvez-vous dire cela autrement ? Je ne comprends pas."
+              },
+              {
+                "text": "Je n'ai pas compris ce que vous voulez dire."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Tout le reste",
+      "previous_sibling": "node_3_1585826996088",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "folder",
+      "title": "Renseignement général",
+      "conditions": "#Renseignements || #Renseignement_Formations || #Renseignement_Formation_Parcours || #Renseignement_Formation_Parcours_Niveau || #Renseignement_UE_Semestre || #Renseignement_UE_Semestre_Numéro || #Renseignement_UE_Semestre_Numéro_Formation || #Renseignement_Inscription || #Renseignement_Inscription_Formation || #Renseignement_Inscription_Formation_Niveau || #Renseignement_Matiere || #Renseignement_Matiere_Nom",
+      "dialog_node": "node_6_1585828100973",
+      "previous_sibling": "node_2_1585827152090"
+    },
+    {
+      "type": "standard",
+      "title": "Bienvenue",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "welcome",
+      "dialog_node": "Bienvenue"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Vouliez-vous dire:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "Aucune de précédent"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Vouliez-vous dire:"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "Agent conversationnel de l'UB",
+  "language": "fr",
+  "description": ""
+}

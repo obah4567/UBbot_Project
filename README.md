@@ -21,3 +21,10 @@ Configuration nécessaires pour lancer le serveur avec FLASK:
 
         Adresse des pages : 
 	        Page d'accueil : http://127.0.0.1:5000
+
+
+Pour lancer les parseurs:
+	cd Dossier_Annexe/Code_Parser/
+
+Projet Exporter:
+	cd Dossier_Annexe/Projet_Export/
